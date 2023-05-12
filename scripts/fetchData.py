@@ -19,12 +19,12 @@ car_divs = html.xpath("//div[@id='carlist']/div")
 cars = []
 
 for div in car_divs:
-    id = div.xpath("@data-carid")[0]
+    id = int(div.xpath("@data-carid")[0])
 
     try:
         img = div.xpath("img/@src")[0]
         name = div.xpath("a[@class='name']/text()")[0]
-        year = name.split(' ')[0]
+        year = int(name.split(' ')[0])
         name = ' '.join(name.split(' ')[1:])
 
         category = div.xpath("div[@class='cty']/text()")[0].lower()
