@@ -25,6 +25,10 @@ for div in car_divs:
         img = div.xpath("img/@src")[0]
         name = div.xpath("a[@class='name']/text()")[0].split(' ')
         year = int(name.pop(0))
+
+        # TODO: fix this
+        # sometimes make name is longer than 1 word
+        
         make = name.pop(0)
         name = ' '.join(name)
 
