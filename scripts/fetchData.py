@@ -23,9 +23,10 @@ for div in car_divs:
 
     try:
         img = div.xpath("img/@src")[0]
-        name = div.xpath("a[@class='name']/text()")[0]
-        year = int(name.split(' ')[0])
-        name = ' '.join(name.split(' ')[1:])
+        name = div.xpath("a[@class='name']/text()")[0].split(' ')
+        year = int(name.pop(0))
+        make = name.pop(0)
+        name = ' '.join(name)
 
         category = div.xpath("div[@class='cty']/text()")[0].lower()
         sources = [s.lower() for s in div.xpath("div/div[@class='car_source']//b/text()")]
@@ -61,6 +62,7 @@ for div in car_divs:
             "img": img,
             "name": name,
             "year": year,
+            "make": make,
             "category": category,
             "price": price,
             "sources": sources,
