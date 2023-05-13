@@ -4,7 +4,7 @@
     "img": "images/cars/side/fh5_car_001.jpg?v=1",
     "name": "Integra Type R",
     "year": 2001,
-    "make": "Acura",
+    "make": "acura",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -34,7 +34,7 @@
     "img": "images/cars/side/fh5_car_002.jpg?v=1",
     "name": "RSX Type S",
     "year": 2002,
-    "make": "Acura",
+    "make": "acura",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -64,7 +64,7 @@
     "img": "images/cars/side/fh5_car_003.jpg?v=1",
     "name": "NSX",
     "year": 2017,
-    "make": "Acura",
+    "make": "acura",
     "category": "modern supercars",
     "price": 170000,
     "sources": [
@@ -94,7 +94,7 @@
     "img": "images/cars/side/fh5_car_004.jpg?v=1",
     "name": "A110 1600s",
     "year": 1973,
-    "make": "Alpine",
+    "make": "alpine",
     "category": "classic rally",
     "price": 98000,
     "sources": [
@@ -124,7 +124,7 @@
     "img": "images/cars/side/fh5_car_005.jpg?v=1",
     "name": "A110",
     "year": 2017,
-    "make": "Alpine",
+    "make": "alpine",
     "category": "modern sports cars",
     "price": 67500,
     "sources": [
@@ -155,9 +155,9 @@
   {
     "id": 6,
     "img": "images/cars/side/fh5_car_006.jpg?v=1",
-    "name": "Craft Class 10 Race Car",
+    "name": "Class 10 Race Car",
     "year": 2015,
-    "make": "Alumi",
+    "make": "alumi craft",
     "category": "unlimited buggies",
     "price": 300000,
     "sources": [
@@ -188,7 +188,7 @@
     "img": "images/cars/side/fh5_car_007.jpg?v=1",
     "name": "Gremlin X",
     "year": 1973,
-    "make": "AMC",
+    "make": "amc",
     "category": "cult cars",
     "price": 35000,
     "sources": [
@@ -217,9 +217,9 @@
   {
     "id": 8,
     "img": "images/cars/side/fh5_car_008.jpg?v=1",
-    "name": "TRANSPORT DYNAMICS M12S Warthog CST",
+    "name": "M12S Warthog CST",
     "year": 2554,
-    "make": "AMG",
+    "make": "amg transport dynamics",
     "category": "unlimited offroad",
     "price": 850000,
     "sources": [
@@ -250,7 +250,7 @@
     "img": "images/cars/side/fh5_car_009.jpg?v=1",
     "name": "Intensa Emozione",
     "year": 2018,
-    "make": "Apollo",
+    "make": "apollo",
     "category": "extreme track toys",
     "price": 1500000,
     "sources": [
@@ -282,7 +282,7 @@
     "img": "images/cars/side/fh5_car_010.jpg?v=1",
     "name": "Intensa Emozione \"Welcome Pack\"",
     "year": 2018,
-    "make": "Apollo",
+    "make": "apollo",
     "category": "extreme track toys",
     "price": 1500000,
     "sources": [
@@ -312,7 +312,7 @@
     "img": "images/cars/side/fh5_car_011.jpg?v=1",
     "name": "Atom 500 V8",
     "year": 2013,
-    "make": "Ariel",
+    "make": "ariel",
     "category": "extreme track toys",
     "price": 200000,
     "sources": [
@@ -343,7 +343,7 @@
     "img": "images/cars/side/fh5_car_012.jpg?v=1",
     "name": "Nomad",
     "year": 2016,
-    "make": "Ariel",
+    "make": "ariel",
     "category": "unlimited buggies",
     "price": 93000,
     "sources": [
@@ -372,9 +372,9 @@
   {
     "id": 13,
     "img": "images/cars/side/fh5_car_013.jpg?v=1",
-    "name": "Martin DB5",
+    "name": "DB5",
     "year": 1964,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "rare classics",
     "price": 800000,
     "sources": [
@@ -403,9 +403,9 @@
   {
     "id": 14,
     "img": "images/cars/side/fh5_car_014.jpg?v=1",
-    "name": "Martin V12 Vantage S",
+    "name": "V12 Vantage S",
     "year": 2013,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "super gt",
     "price": 240000,
     "sources": [
@@ -434,9 +434,9 @@
   {
     "id": 15,
     "img": "images/cars/side/fh5_car_015.jpg?v=1",
-    "name": "Martin Vantage GT12",
+    "name": "Vantage GT12",
     "year": 2016,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "track toys",
     "price": 400000,
     "sources": [
@@ -464,9 +464,9 @@
   {
     "id": 16,
     "img": "images/cars/side/fh5_car_016.jpg?v=1",
-    "name": "Martin DB11",
+    "name": "DB11",
     "year": 2017,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "super gt",
     "price": 300000,
     "sources": [
@@ -495,9 +495,9 @@
   {
     "id": 17,
     "img": "images/cars/side/fh5_car_017.jpg?v=1",
-    "name": "Martin Vulcan AMR Pro",
+    "name": "Vulcan AMR Pro",
     "year": 2017,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "extreme track toys",
     "price": 2000000,
     "sources": [
@@ -527,9 +527,9 @@
   {
     "id": 18,
     "img": "images/cars/side/fh5_car_018.jpg?v=1",
-    "name": "Martin Vantage",
+    "name": "Vantage",
     "year": 2019,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "gt cars",
     "price": 430000,
     "sources": [
@@ -559,9 +559,9 @@
   {
     "id": 19,
     "img": "images/cars/side/fh5_car_019.jpg?v=1",
-    "name": "Martin DBS Superleggera",
+    "name": "DBS Superleggera",
     "year": 2019,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "super gt",
     "price": 350000,
     "sources": [
@@ -590,9 +590,9 @@
   {
     "id": 20,
     "img": "images/cars/side/fh5_car_020.jpg?v=1",
-    "name": "Martin Valhalla Concept Car",
+    "name": "Valhalla Concept Car",
     "year": 2019,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "hypercars",
     "price": 1150000,
     "sources": [
@@ -623,7 +623,7 @@
     "img": "images/cars/side/fh5_car_021.jpg?v=1",
     "name": "Sport quattro",
     "year": 1983,
-    "make": "Audi",
+    "make": "audi",
     "category": "retro rally",
     "price": 175000,
     "sources": [
@@ -654,7 +654,7 @@
     "img": "images/cars/side/fh5_car_022.jpg?v=1",
     "name": "Avant RS2",
     "year": 1995,
-    "make": "Audi",
+    "make": "audi",
     "category": "retro saloons",
     "price": 50000,
     "sources": [
@@ -685,7 +685,7 @@
     "img": "images/cars/side/fh5_car_023.jpg?v=1",
     "name": "RS 4 Avant",
     "year": 2001,
-    "make": "Audi",
+    "make": "audi",
     "category": "retro saloons",
     "price": 94000,
     "sources": [
@@ -716,7 +716,7 @@
     "img": "images/cars/side/fh5_car_024.jpg?v=1",
     "name": "RS 6",
     "year": 2003,
-    "make": "Audi",
+    "make": "audi",
     "category": "retro saloons",
     "price": 105000,
     "sources": [
@@ -747,7 +747,7 @@
     "img": "images/cars/side/fh5_car_025.jpg?v=1",
     "name": "RS 4",
     "year": 2006,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 53000,
     "sources": [
@@ -778,7 +778,7 @@
     "img": "images/cars/side/fh5_car_026.jpg?v=1",
     "name": "RS 6",
     "year": 2009,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 155000,
     "sources": [
@@ -809,7 +809,7 @@
     "img": "images/cars/side/fh5_car_027.jpg?v=1",
     "name": "TT RS Coup\u00e9",
     "year": 2010,
-    "make": "Audi",
+    "make": "audi",
     "category": "modern sports cars",
     "price": 66000,
     "sources": [
@@ -840,7 +840,7 @@
     "img": "images/cars/side/fh5_car_028.jpg?v=1",
     "name": "RS 3 Sportback",
     "year": 2011,
-    "make": "Audi",
+    "make": "audi",
     "category": "super hot hatch",
     "price": 42000,
     "sources": [
@@ -871,7 +871,7 @@
     "img": "images/cars/side/fh5_car_029.jpg?v=1",
     "name": "RS 5 Coup\u00e9",
     "year": 2011,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 88000,
     "sources": [
@@ -902,7 +902,7 @@
     "img": "images/cars/side/fh5_car_030.jpg?v=1",
     "name": "RS 4 Avant",
     "year": 2013,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 83000,
     "sources": [
@@ -933,7 +933,7 @@
     "img": "images/cars/side/fh5_car_031.jpg?v=1",
     "name": "RS 7 Sportback",
     "year": 2013,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 225000,
     "sources": [
@@ -964,7 +964,7 @@
     "img": "images/cars/side/fh5_car_032.jpg?v=1",
     "name": "R8 Coup\u00e9 V10 plus 5.2 FSI quattro",
     "year": 2013,
-    "make": "Audi",
+    "make": "audi",
     "category": "modern supercars",
     "price": 290000,
     "sources": [
@@ -997,7 +997,7 @@
     "img": "images/cars/side/fh5_car_033.jpg?v=1",
     "name": "RS 6 Avant",
     "year": 2015,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 150000,
     "sources": [
@@ -1029,7 +1029,7 @@
     "img": "images/cars/side/fh5_car_034.jpg?v=2",
     "name": "TTS Coup\u00e9",
     "year": 2015,
-    "make": "Audi",
+    "make": "audi",
     "category": "modern sports cars",
     "price": 52000,
     "sources": [
@@ -1060,7 +1060,7 @@
     "img": "images/cars/side/fh5_car_035.jpg?v=1",
     "name": "S1",
     "year": 2015,
-    "make": "Audi",
+    "make": "audi",
     "category": "hot hatch",
     "price": 35000,
     "sources": [
@@ -1091,7 +1091,7 @@
     "img": "images/cars/side/fh5_car_036.jpg?v=1",
     "name": "R8 V10 plus",
     "year": 2016,
-    "make": "Audi",
+    "make": "audi",
     "category": "modern supercars",
     "price": 242000,
     "sources": [
@@ -1122,7 +1122,7 @@
     "img": "images/cars/side/fh5_car_037.jpg?v=1",
     "name": "Sprite MkI",
     "year": 1958,
-    "make": "Austin-Healey",
+    "make": "austin-healey",
     "category": "classic sports cars",
     "price": 20000,
     "sources": [
@@ -1151,9 +1151,9 @@
   {
     "id": 38,
     "img": "images/cars/side/fh5_car_038.jpg?v=1",
-    "name": "Union Type D",
+    "name": "Type D",
     "year": 1939,
-    "make": "Auto",
+    "make": "auto union",
     "category": "vintage racers",
     "price": 15000000,
     "sources": [
@@ -1185,7 +1185,7 @@
     "img": "images/cars/side/fh5_car_039.jpg?v=1",
     "name": "Mono",
     "year": 2014,
-    "make": "BAC",
+    "make": "bac",
     "category": "track toys",
     "price": 160000,
     "sources": [
@@ -1216,7 +1216,7 @@
     "img": "images/cars/side/fh5_car_040.jpg?v=1",
     "name": "Blower 4-1/2 Litre Supercharged",
     "year": 1930,
-    "make": "Bentley",
+    "make": "bentley",
     "category": "vintage racers",
     "price": 4000000,
     "sources": [
@@ -1247,7 +1247,7 @@
     "img": "images/cars/side/fh5_car_041.jpg?v=1",
     "name": "8 Litre",
     "year": 1930,
-    "make": "Bentley",
+    "make": "bentley",
     "category": "rare classics",
     "price": 1500000,
     "sources": [
@@ -1278,7 +1278,7 @@
     "img": "images/cars/side/fh5_car_042.jpg?v=1",
     "name": "Bentayga",
     "year": 2016,
-    "make": "Bentley",
+    "make": "bentley",
     "category": "sports utility heroes",
     "price": 180000,
     "sources": [
@@ -1309,7 +1309,7 @@
     "img": "images/cars/side/fh5_car_043.jpg?v=1",
     "name": "Continental Supersports",
     "year": 2017,
-    "make": "Bentley",
+    "make": "bentley",
     "category": "gt cars",
     "price": 200000,
     "sources": [
@@ -1340,7 +1340,7 @@
     "img": "images/cars/side/fh5_car_044.jpg?v=1",
     "name": "Isetta 300 Export",
     "year": 1957,
-    "make": "BMW",
+    "make": "bmw",
     "category": "cult cars",
     "price": 45000,
     "sources": [
@@ -1371,7 +1371,7 @@
     "img": "images/cars/side/fh5_car_045.jpg?v=3",
     "name": "M1",
     "year": 1981,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro supercars",
     "price": 585000,
     "sources": [
@@ -1403,7 +1403,7 @@
     "img": "images/cars/side/fh5_car_046.jpg?v=1",
     "name": "M5",
     "year": 1988,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro saloons",
     "price": 54000,
     "sources": [
@@ -1434,7 +1434,7 @@
     "img": "images/cars/side/fh5_car_047.jpg?v=2",
     "name": "M3",
     "year": 1991,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro saloons",
     "price": 70000,
     "sources": [
@@ -1466,7 +1466,7 @@
     "img": "images/cars/side/fh5_car_048.jpg?v=1",
     "name": "M5",
     "year": 1995,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro saloons",
     "price": 25000,
     "sources": [
@@ -1498,7 +1498,7 @@
     "img": "images/cars/side/fh5_car_049.jpg?v=1",
     "name": "M3",
     "year": 1997,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro saloons",
     "price": 35000,
     "sources": [
@@ -1529,7 +1529,7 @@
     "img": "images/cars/side/fh5_car_050.jpg?v=1",
     "name": "M3-GTR",
     "year": 2002,
-    "make": "BMW",
+    "make": "bmw",
     "category": "track toys",
     "price": 180000,
     "sources": [
@@ -1560,7 +1560,7 @@
     "img": "images/cars/side/fh5_car_051.jpg?v=1",
     "name": "Z3 M Coupe",
     "year": 2002,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro sports cars",
     "price": 30000,
     "sources": [
@@ -1591,7 +1591,7 @@
     "img": "images/cars/side/fh5_car_052.jpg?v=1",
     "name": "M5",
     "year": 2003,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro saloons",
     "price": 30000,
     "sources": [
@@ -1622,7 +1622,7 @@
     "img": "images/cars/side/fh5_car_053.jpg?v=1",
     "name": "M3",
     "year": 2005,
-    "make": "BMW",
+    "make": "bmw",
     "category": "retro saloons",
     "price": 33000,
     "sources": [
@@ -1653,7 +1653,7 @@
     "img": "images/cars/side/fh5_car_054.jpg?v=1",
     "name": "M3",
     "year": 2008,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 48000,
     "sources": [
@@ -1684,7 +1684,7 @@
     "img": "images/cars/side/fh5_car_055.jpg?v=1",
     "name": "Z4 M Coupe",
     "year": 2008,
-    "make": "BMW",
+    "make": "bmw",
     "category": "modern sports cars",
     "price": 82000,
     "sources": [
@@ -1715,7 +1715,7 @@
     "img": "images/cars/side/fh5_car_056.jpg?v=1",
     "name": "M5",
     "year": 2009,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 90000,
     "sources": [
@@ -1746,7 +1746,7 @@
     "img": "images/cars/side/fh5_car_057.jpg?v=1",
     "name": "1 Series M Coupe",
     "year": 2011,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 55000,
     "sources": [
@@ -1777,7 +1777,7 @@
     "img": "images/cars/side/fh5_car_058.jpg?v=1",
     "name": "X5 M",
     "year": 2011,
-    "make": "BMW",
+    "make": "bmw",
     "category": "sports utility heroes",
     "price": 100000,
     "sources": [
@@ -1808,7 +1808,7 @@
     "img": "images/cars/side/fh5_car_059.jpg?v=1",
     "name": "M5",
     "year": 2012,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 112000,
     "sources": [
@@ -1839,7 +1839,7 @@
     "img": "images/cars/side/fh5_car_060.jpg?v=1",
     "name": "M6 Coupe",
     "year": 2013,
-    "make": "BMW",
+    "make": "bmw",
     "category": "gt cars",
     "price": 120000,
     "sources": [
@@ -1870,7 +1870,7 @@
     "img": "images/cars/side/fh5_car_061.jpg?v=1",
     "name": "M4 Coupe",
     "year": 2014,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 92000,
     "sources": [
@@ -1901,7 +1901,7 @@
     "img": "images/cars/side/fh5_car_062.jpg?v=1",
     "name": "i8",
     "year": 2015,
-    "make": "BMW",
+    "make": "bmw",
     "category": "modern supercars",
     "price": 140000,
     "sources": [
@@ -1932,7 +1932,7 @@
     "img": "images/cars/side/fh5_car_063.jpg?v=1",
     "name": "X6 M",
     "year": 2015,
-    "make": "BMW",
+    "make": "bmw",
     "category": "sports utility heroes",
     "price": 130000,
     "sources": [
@@ -1965,7 +1965,7 @@
     "img": "images/cars/side/fh5_car_064.jpg?v=1",
     "name": "M2 Coup\u00e9",
     "year": 2016,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 69000,
     "sources": [
@@ -1996,7 +1996,7 @@
     "img": "images/cars/side/fh5_car_065.jpg?v=1",
     "name": "M4 GTS",
     "year": 2016,
-    "make": "BMW",
+    "make": "bmw",
     "category": "track toys",
     "price": 135000,
     "sources": [
@@ -2026,7 +2026,7 @@
     "img": "images/cars/side/fh5_car_066.jpg?v=1",
     "name": "M5",
     "year": 2018,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 105000,
     "sources": [
@@ -2057,7 +2057,7 @@
     "img": "images/cars/side/fh5_car_067.jpg?v=1",
     "name": "Z4 Roadster",
     "year": 2019,
-    "make": "BMW",
+    "make": "bmw",
     "category": "modern sports cars",
     "price": 35000,
     "sources": [
@@ -2088,7 +2088,7 @@
     "img": "images/cars/side/fh5_car_068.jpg?v=1",
     "name": "Type 35 C",
     "year": 1926,
-    "make": "Bugatti",
+    "make": "bugatti",
     "category": "vintage racers",
     "price": 1300000,
     "sources": [
@@ -2119,7 +2119,7 @@
     "img": "images/cars/side/fh5_car_069.jpg?v=1",
     "name": "EB110 Super Sport",
     "year": 1992,
-    "make": "Bugatti",
+    "make": "bugatti",
     "category": "retro supercars",
     "price": 1700000,
     "sources": [
@@ -2150,7 +2150,7 @@
     "img": "images/cars/side/fh5_car_070.jpg?v=1",
     "name": "Veyron Super Sport",
     "year": 2011,
-    "make": "Bugatti",
+    "make": "bugatti",
     "category": "hypercars",
     "price": 2200000,
     "sources": [
@@ -2181,7 +2181,7 @@
     "img": "images/cars/side/fh5_car_071.jpg?v=1",
     "name": "Chiron",
     "year": 2018,
-    "make": "Bugatti",
+    "make": "bugatti",
     "category": "hypercars",
     "price": 2400000,
     "sources": [
@@ -2212,7 +2212,7 @@
     "img": "images/cars/side/fh5_car_072.jpg?v=1",
     "name": "Divo",
     "year": 2019,
-    "make": "Bugatti",
+    "make": "bugatti",
     "category": "extreme track toys",
     "price": 3000000,
     "sources": [
@@ -2243,7 +2243,7 @@
     "img": "images/cars/side/fh5_car_073.jpg?v=1",
     "name": "GSX",
     "year": 1970,
-    "make": "Buick",
+    "make": "buick",
     "category": "classic muscle",
     "price": 80000,
     "sources": [
@@ -2274,7 +2274,7 @@
     "img": "images/cars/side/fh5_car_074.jpg?v=1",
     "name": "Regal GNX",
     "year": 1987,
-    "make": "Buick",
+    "make": "buick",
     "category": "retro muscle",
     "price": 130000,
     "sources": [
@@ -2305,7 +2305,7 @@
     "img": "images/cars/side/fh5_car_075.jpg?v=1",
     "name": "ATS-V",
     "year": 2016,
-    "make": "Cadillac",
+    "make": "cadillac",
     "category": "modern muscle",
     "price": 65000,
     "sources": [
@@ -2336,7 +2336,7 @@
     "img": "images/cars/side/fh5_car_076.jpg?v=1",
     "name": "CTS-V Sedan",
     "year": 2016,
-    "make": "Cadillac",
+    "make": "cadillac",
     "category": "modern muscle",
     "price": 80000,
     "sources": [
@@ -2368,7 +2368,7 @@
     "img": "images/cars/side/fh5_car_077.jpg?v=1",
     "name": "Maverick X RS Turbo R",
     "year": 2018,
-    "make": "Can-Am",
+    "make": "can-am",
     "category": "utv's",
     "price": 25000,
     "sources": [
@@ -2399,7 +2399,7 @@
     "img": "images/cars/side/fh5_car_078.jpg?v=1",
     "name": "Superlight R500",
     "year": 2013,
-    "make": "Caterham",
+    "make": "caterham",
     "category": "track toys",
     "price": 82000,
     "sources": [
@@ -2430,7 +2430,7 @@
     "img": "images/cars/side/fh5_car_079.jpg?v=1",
     "name": "150 Utility Sedan",
     "year": 1955,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "rods and customs",
     "price": 35000,
     "sources": [
@@ -2461,7 +2461,7 @@
     "img": "images/cars/side/fh5_car_080.jpg?v=1",
     "name": "Bel Air",
     "year": 1957,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "rods and customs",
     "price": 130000,
     "sources": [
@@ -2492,7 +2492,7 @@
     "img": "images/cars/side/fh5_car_081.jpg?v=1",
     "name": "Corvette",
     "year": 1960,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic sports cars",
     "price": 150000,
     "sources": [
@@ -2522,7 +2522,7 @@
     "img": "images/cars/side/fh5_car_082.jpg?v=1",
     "name": "Impala Super Sport 409",
     "year": 1964,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "rods and customs",
     "price": 46000,
     "sources": [
@@ -2553,7 +2553,7 @@
     "img": "images/cars/side/fh5_car_083.jpg?v=1",
     "name": "Corvette Stingray 427",
     "year": 1967,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic muscle",
     "price": 150000,
     "sources": [
@@ -2584,7 +2584,7 @@
     "img": "images/cars/side/fh5_car_084.jpg?v=1",
     "name": "Camaro Super Sport Coupe",
     "year": 1969,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic muscle",
     "price": 110000,
     "sources": [
@@ -2615,7 +2615,7 @@
     "img": "images/cars/side/fh5_car_085.jpg?v=1",
     "name": "Nova Super Sport 396",
     "year": 1969,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic muscle",
     "price": 41000,
     "sources": [
@@ -2646,7 +2646,7 @@
     "img": "images/cars/side/fh5_car_086.jpg?v=1",
     "name": "Chevelle Super Sport 454",
     "year": 1970,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic muscle",
     "price": 80000,
     "sources": [
@@ -2677,7 +2677,7 @@
     "img": "images/cars/side/fh5_car_087.jpg?v=1",
     "name": "Corvette ZR-1",
     "year": 1970,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic muscle",
     "price": 310000,
     "sources": [
@@ -2710,7 +2710,7 @@
     "img": "images/cars/side/fh5_car_088.jpg?v=1",
     "name": "El Camino Super Sport 454",
     "year": 1970,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "vans and utility",
     "price": 65000,
     "sources": [
@@ -2741,7 +2741,7 @@
     "img": "images/cars/side/fh5_car_089.jpg?v=1",
     "name": "Camaro Z28",
     "year": 1970,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic muscle",
     "price": 53000,
     "sources": [
@@ -2772,7 +2772,7 @@
     "img": "images/cars/side/fh5_car_090.jpg?v=1",
     "name": "Camaro Z28",
     "year": 1979,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic muscle",
     "price": 35000,
     "sources": [
@@ -2803,7 +2803,7 @@
     "img": "images/cars/side/fh5_car_091.jpg?v=1",
     "name": "Monte Carlo Super Sport",
     "year": 1988,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "retro muscle",
     "price": 25000,
     "sources": [
@@ -2834,7 +2834,7 @@
     "img": "images/cars/side/fh5_car_092.jpg?v=1",
     "name": "Corvette ZR-1",
     "year": 1995,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "retro muscle",
     "price": 45000,
     "sources": [
@@ -2865,7 +2865,7 @@
     "img": "images/cars/side/fh5_car_093.jpg?v=1",
     "name": "Impala Super Sport",
     "year": 1996,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "retro muscle",
     "price": 20000,
     "sources": [
@@ -2896,7 +2896,7 @@
     "img": "images/cars/side/fh5_car_094.jpg?v=1",
     "name": "Corvette Z06",
     "year": 2002,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "retro muscle",
     "price": 35000,
     "sources": [
@@ -2927,7 +2927,7 @@
     "img": "images/cars/side/fh5_car_095.jpg?v=1",
     "name": "Corvette ZR1",
     "year": 2009,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "modern muscle",
     "price": 125000,
     "sources": [
@@ -2958,7 +2958,7 @@
     "img": "images/cars/side/fh5_car_096.jpg?v=1",
     "name": "Corvette Z06",
     "year": 2015,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "modern muscle",
     "price": 110000,
     "sources": [
@@ -2989,7 +2989,7 @@
     "img": "images/cars/side/fh5_car_097.jpg?v=1",
     "name": "Camaro Z/28",
     "year": 2015,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "track toys",
     "price": 86000,
     "sources": [
@@ -3020,7 +3020,7 @@
     "img": "images/cars/side/fh5_car_098.jpg?v=1",
     "name": "Camaro ZL1",
     "year": 2017,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "modern muscle",
     "price": 60000,
     "sources": [
@@ -3051,7 +3051,7 @@
     "img": "images/cars/side/fh5_car_099.jpg?v=1",
     "name": "Colorado ZR2",
     "year": 2017,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "pick-up & 4x4's",
     "price": 46000,
     "sources": [
@@ -3082,7 +3082,7 @@
     "img": "images/cars/side/fh5_car_100.jpg?v=1",
     "name": "Camaro ZL1 1LE",
     "year": 2018,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "track toys",
     "price": 105000,
     "sources": [
@@ -3113,7 +3113,7 @@
     "img": "images/cars/side/fh5_car_101.jpg?v=1",
     "name": "Corvette ZR1",
     "year": 2019,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "track toys",
     "price": 255000,
     "sources": [
@@ -3143,7 +3143,7 @@
     "img": "images/cars/side/fh5_car_102.jpg?v=1",
     "name": "Corvette Stingray Coupe",
     "year": 2020,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "modern supercars",
     "price": 65000,
     "sources": [
@@ -3174,7 +3174,7 @@
     "img": "images/cars/side/fh5_car_103.jpg?v=1",
     "name": "510",
     "year": 1970,
-    "make": "Datsun",
+    "make": "datsun",
     "category": "cult cars",
     "price": 25000,
     "sources": [],
@@ -3202,7 +3202,7 @@
     "img": "images/cars/side/fh5_car_104.jpg?v=1",
     "name": "Jeep Wrangler Unlimited",
     "year": 2013,
-    "make": "Deberti",
+    "make": "deberti",
     "category": "unlimited offroad",
     "price": 200000,
     "sources": [
@@ -3235,7 +3235,7 @@
     "img": "images/cars/side/fh5_car_105.jpg?v=1",
     "name": "Chevrolet Silverado 1500 Drift Truck",
     "year": 2018,
-    "make": "Deberti",
+    "make": "deberti",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -3266,7 +3266,7 @@
     "img": "images/cars/side/fh5_car_106.jpg?v=1",
     "name": "Ford F-150 Prerunner",
     "year": 2018,
-    "make": "Deberti",
+    "make": "deberti",
     "category": "unlimited offroad",
     "price": 250000,
     "sources": [
@@ -3298,7 +3298,7 @@
     "img": "images/cars/side/fh5_car_107.jpg?v=1",
     "name": "Toyota Tacoma TRD \"The Performance Truck\"",
     "year": 2019,
-    "make": "Deberti",
+    "make": "deberti",
     "category": "drift cars",
     "price": 500000,
     "sources": [
@@ -3329,7 +3329,7 @@
     "img": "images/cars/side/fh5_car_108.jpg?v=1",
     "name": "Charger R/T",
     "year": 1969,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "classic muscle",
     "price": 103000,
     "sources": [
@@ -3361,7 +3361,7 @@
     "img": "images/cars/side/fh5_car_109.jpg?v=1",
     "name": "Charger Daytona HEMI",
     "year": 1969,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "classic muscle",
     "price": 900000,
     "sources": [
@@ -3394,7 +3394,7 @@
     "img": "images/cars/side/fh5_car_110.jpg?v=1",
     "name": "Challenger R/T",
     "year": 1970,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "classic muscle",
     "price": 210000,
     "sources": [
@@ -3425,7 +3425,7 @@
     "img": "images/cars/side/fh5_car_111.jpg?v=1",
     "name": "Viper SRT10 ACR",
     "year": 2008,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "track toys",
     "price": 90000,
     "sources": [
@@ -3456,7 +3456,7 @@
     "img": "images/cars/side/fh5_car_112.jpg?v=1",
     "name": "SRT Viper GTS",
     "year": 2013,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "modern muscle",
     "price": 95000,
     "sources": [
@@ -3487,7 +3487,7 @@
     "img": "images/cars/side/fh5_car_113.jpg?v=1",
     "name": "Challenger SRT Hellcat",
     "year": 2015,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "modern muscle",
     "price": 75000,
     "sources": [
@@ -3518,7 +3518,7 @@
     "img": "images/cars/side/fh5_car_114.jpg?v=1",
     "name": "Charger SRT Hellcat",
     "year": 2015,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "modern muscle",
     "price": 80000,
     "sources": [
@@ -3549,7 +3549,7 @@
     "img": "images/cars/side/fh5_car_115.jpg?v=1",
     "name": "Viper ACR",
     "year": 2016,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "track toys",
     "price": 150000,
     "sources": [
@@ -3581,7 +3581,7 @@
     "img": "images/cars/side/fh5_car_116.jpg?v=1",
     "name": "Durango SRT",
     "year": 2018,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "sports utility heroes",
     "price": 70000,
     "sources": [
@@ -3612,7 +3612,7 @@
     "img": "images/cars/side/fh5_car_117.jpg?v=1",
     "name": "Challenger SRT Demon",
     "year": 2018,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "modern muscle",
     "price": 150000,
     "sources": [
@@ -3643,7 +3643,7 @@
     "img": "images/cars/side/fh5_car_118.jpg?v=1",
     "name": "Exocet Off-Road",
     "year": 2018,
-    "make": "Exomotive",
+    "make": "exomotive",
     "category": "unlimited buggies",
     "price": 50000,
     "sources": [
@@ -3674,7 +3674,7 @@
     "img": "images/cars/side/fh5_car_119.jpg?v=1",
     "name": "250 Testa Rossa",
     "year": 1957,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "classic racers",
     "price": 16400000,
     "sources": [
@@ -3706,7 +3706,7 @@
     "img": "images/cars/side/fh5_car_120.jpg?v=1",
     "name": "250 California",
     "year": 1957,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "rare classics",
     "price": 18500000,
     "sources": [
@@ -3737,7 +3737,7 @@
     "img": "images/cars/side/fh5_car_121.jpg?v=1",
     "name": "#24 Ferrari Spa 330 P4",
     "year": 1967,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "classic racers",
     "price": 9000000,
     "sources": [
@@ -3770,7 +3770,7 @@
     "img": "images/cars/side/fh5_car_122.jpg?v=1",
     "name": "365 GTB/4",
     "year": 1968,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "rare classics",
     "price": 600000,
     "sources": [
@@ -3801,7 +3801,7 @@
     "img": "images/cars/side/fh5_car_123.jpg?v=1",
     "name": "Dino 246 GT",
     "year": 1969,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "rare classics",
     "price": 425000,
     "sources": [
@@ -3834,7 +3834,7 @@
     "img": "images/cars/side/fh5_car_124.jpg?v=1",
     "name": "288 GTO",
     "year": 1984,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 3500000,
     "sources": [
@@ -3865,7 +3865,7 @@
     "img": "images/cars/side/fh5_car_125.jpg?v=1",
     "name": "F40",
     "year": 1987,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 1200000,
     "sources": [
@@ -3897,7 +3897,7 @@
     "img": "images/cars/side/fh5_car_126.jpg?v=1",
     "name": "F355 Berlinetta",
     "year": 1994,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 190000,
     "sources": [
@@ -3928,7 +3928,7 @@
     "img": "images/cars/side/fh5_car_127.jpg?v=1",
     "name": "F50",
     "year": 1995,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 2000000,
     "sources": [
@@ -3959,7 +3959,7 @@
     "img": "images/cars/side/fh5_car_128.jpg?v=1",
     "name": "F50 GT",
     "year": 1996,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "extreme track toys",
     "price": 2000000,
     "sources": [
@@ -3990,7 +3990,7 @@
     "img": "images/cars/side/fh5_car_129.jpg?v=1",
     "name": "Enzo Ferrari",
     "year": 2002,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 2800000,
     "sources": [
@@ -4022,7 +4022,7 @@
     "img": "images/cars/side/fh5_car_130.jpg?v=1",
     "name": "360 Challenge Stradale",
     "year": 2003,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 200000,
     "sources": [
@@ -4053,7 +4053,7 @@
     "img": "images/cars/side/fh5_car_131.jpg?v=1",
     "name": "FXX",
     "year": 2005,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "extreme track toys",
     "price": 2500000,
     "sources": [
@@ -4084,7 +4084,7 @@
     "img": "images/cars/side/fh5_car_132.jpg?v=1",
     "name": "430 Scuderia",
     "year": 2007,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "modern supercars",
     "price": 300000,
     "sources": [
@@ -4115,7 +4115,7 @@
     "img": "images/cars/side/fh5_car_133.jpg?v=1",
     "name": "458 Italia",
     "year": 2009,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "modern supercars",
     "price": 225000,
     "sources": [
@@ -4146,7 +4146,7 @@
     "img": "images/cars/side/fh5_car_134.jpg?v=1",
     "name": "599XX Evolution",
     "year": 2012,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "extreme track toys",
     "price": 2600000,
     "sources": [
@@ -4177,7 +4177,7 @@
     "img": "images/cars/side/fh5_car_135.jpg?v=1",
     "name": "LaFerrari",
     "year": 2013,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "hypercars",
     "price": 1500000,
     "sources": [
@@ -4207,7 +4207,7 @@
     "img": "images/cars/side/fh5_car_136.jpg?v=1",
     "name": "458 Speciale",
     "year": 2013,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "track toys",
     "price": 340000,
     "sources": [
@@ -4240,7 +4240,7 @@
     "img": "images/cars/side/fh5_car_137.jpg?v=1",
     "name": "FXX K",
     "year": 2014,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "extreme track toys",
     "price": 2700000,
     "sources": [
@@ -4271,7 +4271,7 @@
     "img": "images/cars/side/fh5_car_138.jpg?v=1",
     "name": "488 GTB",
     "year": 2015,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "modern supercars",
     "price": 290000,
     "sources": [
@@ -4303,7 +4303,7 @@
     "img": "images/cars/side/fh5_car_139.jpg?v=1",
     "name": "F12tdf",
     "year": 2015,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "super gt",
     "price": 500000,
     "sources": [
@@ -4334,7 +4334,7 @@
     "img": "images/cars/side/fh5_car_140.jpg?v=1",
     "name": "812 Superfast",
     "year": 2017,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "super gt",
     "price": 350000,
     "sources": [
@@ -4365,7 +4365,7 @@
     "img": "images/cars/side/fh5_car_141.jpg?v=1",
     "name": "GTC4Lusso",
     "year": 2017,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "super gt",
     "price": 300000,
     "sources": [
@@ -4396,7 +4396,7 @@
     "img": "images/cars/side/fh5_car_142.jpg?v=1",
     "name": "Portofino",
     "year": 2018,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "super gt",
     "price": 215000,
     "sources": [
@@ -4427,7 +4427,7 @@
     "img": "images/cars/side/fh5_car_143.jpg?v=1",
     "name": "488 Pista",
     "year": 2019,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "track toys",
     "price": 320000,
     "sources": [
@@ -4458,7 +4458,7 @@
     "img": "images/cars/side/fh5_car_144.jpg?v=1",
     "name": "De Luxe Five-Window Coupe",
     "year": 1932,
-    "make": "Ford",
+    "make": "ford",
     "category": "rods and customs",
     "price": 35000,
     "sources": [
@@ -4489,7 +4489,7 @@
     "img": "images/cars/side/fh5_car_145.jpg?v=1",
     "name": "De Luxe Coupe",
     "year": 1940,
-    "make": "Ford",
+    "make": "ford",
     "category": "rods and customs",
     "price": 44000,
     "sources": [
@@ -4520,7 +4520,7 @@
     "img": "images/cars/side/fh5_car_146.jpg?v=1",
     "name": "F-100",
     "year": 1956,
-    "make": "Ford",
+    "make": "ford",
     "category": "rods and customs",
     "price": 36000,
     "sources": [
@@ -4550,7 +4550,7 @@
     "img": "images/cars/side/fh5_car_147.jpg?v=1",
     "name": "Anglia 105E",
     "year": 1959,
-    "make": "Ford",
+    "make": "ford",
     "category": "cult cars",
     "price": 20000,
     "sources": [
@@ -4581,7 +4581,7 @@
     "img": "images/cars/side/fh5_car_148.jpg?v=1",
     "name": "GT40 Mk I",
     "year": 1964,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic racers",
     "price": 11000000,
     "sources": [
@@ -4611,7 +4611,7 @@
     "img": "images/cars/side/fh5_car_149.jpg?v=1",
     "name": "Mustang GT Coupe",
     "year": 1965,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic muscle",
     "price": 46000,
     "sources": [
@@ -4642,7 +4642,7 @@
     "img": "images/cars/side/fh5_car_150.jpg?v=1",
     "name": "Transit",
     "year": 1965,
-    "make": "Ford",
+    "make": "ford",
     "category": "vans and utility",
     "price": 25000,
     "sources": [
@@ -4673,7 +4673,7 @@
     "img": "images/cars/side/fh5_car_151.jpg?v=1",
     "name": "#2 GT40 Mk II",
     "year": 1966,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic racers",
     "price": 11000000,
     "sources": [
@@ -4704,7 +4704,7 @@
     "img": "images/cars/side/fh5_car_152.jpg?v=1",
     "name": "Lotus Cortina",
     "year": 1966,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic racers",
     "price": 50000,
     "sources": [
@@ -4735,7 +4735,7 @@
     "img": "images/cars/side/fh5_car_153.jpg?v=1",
     "name": "Racing Escort MK1",
     "year": 1967,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic rally",
     "price": 500000,
     "sources": [
@@ -4765,7 +4765,7 @@
     "img": "images/cars/side/fh5_car_154.jpg?v=1",
     "name": "Mustang GT 2+2 Fastback",
     "year": 1968,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic muscle",
     "price": 50000,
     "sources": [
@@ -4795,7 +4795,7 @@
     "img": "images/cars/side/fh5_car_155.jpg?v=1",
     "name": "Mustang Boss 302",
     "year": 1969,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic muscle",
     "price": 230000,
     "sources": [
@@ -4826,7 +4826,7 @@
     "img": "images/cars/side/fh5_car_156.jpg?v=1",
     "name": "GT70",
     "year": 1970,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic rally",
     "price": 150000,
     "sources": [
@@ -4857,7 +4857,7 @@
     "img": "images/cars/side/fh5_car_157.jpg?v=1",
     "name": "Falcon XA GT-HO",
     "year": 1972,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic muscle",
     "price": 80000,
     "sources": [
@@ -4889,7 +4889,7 @@
     "img": "images/cars/side/fh5_car_158.jpg?v=1",
     "name": "Capri RS3100",
     "year": 1973,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic sports cars",
     "price": 55000,
     "sources": [
@@ -4920,7 +4920,7 @@
     "img": "images/cars/side/fh5_car_159.jpg?v=1",
     "name": "Escort RS1600",
     "year": 1973,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic rally",
     "price": 73000,
     "sources": [
@@ -4951,7 +4951,7 @@
     "img": "images/cars/side/fh5_car_160.jpg?v=1",
     "name": "Bronco",
     "year": 1975,
-    "make": "Ford",
+    "make": "ford",
     "category": "pick-up & 4x4's",
     "price": 38000,
     "sources": [
@@ -4982,7 +4982,7 @@
     "img": "images/cars/side/fh5_car_161.jpg?v=1",
     "name": "#5 Escort RS1800 MkII",
     "year": 1977,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic rally",
     "price": 300000,
     "sources": [
@@ -5014,7 +5014,7 @@
     "img": "images/cars/side/fh5_car_162.jpg?v=1",
     "name": "Escort RS1800",
     "year": 1977,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic rally",
     "price": 88000,
     "sources": [
@@ -5045,7 +5045,7 @@
     "img": "images/cars/side/fh5_car_163.jpg?v=1",
     "name": "Fiesta XR2",
     "year": 1981,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -5078,7 +5078,7 @@
     "img": "images/cars/side/fh5_car_164.jpg?v=1",
     "name": "RS200 Evolution",
     "year": 1985,
-    "make": "Ford",
+    "make": "ford",
     "category": "rally monsters",
     "price": 260000,
     "sources": [
@@ -5109,7 +5109,7 @@
     "img": "images/cars/side/fh5_car_165.jpg?v=1",
     "name": "Escort RS Turbo",
     "year": 1986,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -5140,7 +5140,7 @@
     "img": "images/cars/side/fh5_car_166.jpg?v=1",
     "name": "Sierra Cosworth RS500",
     "year": 1987,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro saloons",
     "price": 66000,
     "sources": [
@@ -5171,7 +5171,7 @@
     "img": "images/cars/side/fh5_car_167.jpg?v=1",
     "name": "Escort RS Cosworth",
     "year": 1992,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro rally",
     "price": 66000,
     "sources": [
@@ -5202,7 +5202,7 @@
     "img": "images/cars/side/fh5_car_168.jpg?v=1",
     "name": "SVT Cobra R",
     "year": 1993,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro muscle",
     "price": 28000,
     "sources": [
@@ -5233,7 +5233,7 @@
     "img": "images/cars/side/fh5_car_169.jpg?v=1",
     "name": "Supervan 3",
     "year": 1994,
-    "make": "Ford",
+    "make": "ford",
     "category": "track toys",
     "price": 500000,
     "sources": [
@@ -5265,7 +5265,7 @@
     "img": "images/cars/side/fh5_car_170.jpg?v=1",
     "name": "Racing Puma",
     "year": 1999,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro rally",
     "price": 20000,
     "sources": [
@@ -5296,7 +5296,7 @@
     "img": "images/cars/side/fh5_car_171.jpg?v=1",
     "name": "SVT Cobra R",
     "year": 2000,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro muscle",
     "price": 55000,
     "sources": [
@@ -5327,7 +5327,7 @@
     "img": "images/cars/side/fh5_car_172.jpg?v=1",
     "name": "Focus RS",
     "year": 2003,
-    "make": "Ford",
+    "make": "ford",
     "category": "hot hatch",
     "price": 30000,
     "sources": [
@@ -5358,7 +5358,7 @@
     "img": "images/cars/side/fh5_car_173.jpg?v=1",
     "name": "GT",
     "year": 2005,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro supercars",
     "price": 300000,
     "sources": [
@@ -5391,7 +5391,7 @@
     "img": "images/cars/side/fh5_car_174.jpg?v=1",
     "name": "Focus RS",
     "year": 2009,
-    "make": "Ford",
+    "make": "ford",
     "category": "super hot hatch",
     "price": 25000,
     "sources": [
@@ -5422,7 +5422,7 @@
     "img": "images/cars/side/fh5_car_175.jpg?v=1",
     "name": "Crown Victoria Police Interceptor",
     "year": 2010,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro muscle",
     "price": 25000,
     "sources": [
@@ -5453,7 +5453,7 @@
     "img": "images/cars/side/fh5_car_176.jpg?v=1",
     "name": "F-150 SVT Raptor",
     "year": 2011,
-    "make": "Ford",
+    "make": "ford",
     "category": "pick-up & 4x4's",
     "price": 42000,
     "sources": [
@@ -5484,7 +5484,7 @@
     "img": "images/cars/side/fh5_car_177.jpg?v=1",
     "name": "Transit SuperSportVan",
     "year": 2011,
-    "make": "Ford",
+    "make": "ford",
     "category": "vans and utility",
     "price": 50000,
     "sources": [
@@ -5515,7 +5515,7 @@
     "img": "images/cars/side/fh5_car_178.jpg?v=1",
     "name": "Shelby GT500",
     "year": 2013,
-    "make": "Ford",
+    "make": "ford",
     "category": "modern muscle",
     "price": 115000,
     "sources": [
@@ -5546,7 +5546,7 @@
     "img": "images/cars/side/fh5_car_179.jpg?v=1",
     "name": "Fiesta ST",
     "year": 2014,
-    "make": "Ford",
+    "make": "ford",
     "category": "hot hatch",
     "price": 25000,
     "sources": [
@@ -5577,7 +5577,7 @@
     "img": "images/cars/side/fh5_car_180.jpg?v=1",
     "name": "Ranger T6 Rally Raid",
     "year": 2014,
-    "make": "Ford",
+    "make": "ford",
     "category": "offroad",
     "price": 250000,
     "sources": [
@@ -5609,7 +5609,7 @@
     "img": "images/cars/side/fh5_car_181.jpg?v=1",
     "name": "#11 Rockstar F-150 Trophy Truck",
     "year": 2014,
-    "make": "Ford",
+    "make": "ford",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -5640,7 +5640,7 @@
     "img": "images/cars/side/fh5_car_182.jpg?v=1",
     "name": "FPV Limited Edition Pursuit Ute",
     "year": 2014,
-    "make": "Ford",
+    "make": "ford",
     "category": "vans and utility",
     "price": 50000,
     "sources": [
@@ -5671,7 +5671,7 @@
     "img": "images/cars/side/fh5_car_183.jpg?v=1",
     "name": "Falcon GT F 351",
     "year": 2015,
-    "make": "Ford",
+    "make": "ford",
     "category": "modern muscle",
     "price": 60000,
     "sources": [
@@ -5702,7 +5702,7 @@
     "img": "images/cars/side/fh5_car_184.jpg?v=1",
     "name": "Shelby GT350R",
     "year": 2016,
-    "make": "Ford",
+    "make": "ford",
     "category": "track toys",
     "price": 75000,
     "sources": [
@@ -5733,7 +5733,7 @@
     "img": "images/cars/side/fh5_car_185.jpg?v=1",
     "name": "M-Sport Fiesta RS",
     "year": 2017,
-    "make": "Ford",
+    "make": "ford",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -5765,7 +5765,7 @@
     "img": "images/cars/side/fh5_car_186.jpg?v=1",
     "name": "Focus RS",
     "year": 2017,
-    "make": "Ford",
+    "make": "ford",
     "category": "super hot hatch",
     "price": 59000,
     "sources": [
@@ -5797,7 +5797,7 @@
     "img": "images/cars/side/fh5_car_187.jpg?v=1",
     "name": "GT",
     "year": 2017,
-    "make": "Ford",
+    "make": "ford",
     "category": "modern supercars",
     "price": 400000,
     "sources": [
@@ -5828,7 +5828,7 @@
     "img": "images/cars/side/fh5_car_188.jpg?v=1",
     "name": "F-150 Raptor",
     "year": 2017,
-    "make": "Ford",
+    "make": "ford",
     "category": "pick-up & 4x4's",
     "price": 63000,
     "sources": [
@@ -5859,7 +5859,7 @@
     "img": "images/cars/side/fh5_car_189.jpg?v=1",
     "name": "#14 Rahal Letterman Lanigan Racing GRC Fiesta",
     "year": 2017,
-    "make": "Ford",
+    "make": "ford",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -5892,7 +5892,7 @@
     "img": "images/cars/side/fh5_car_190.jpg?v=1",
     "name": "#25 'Brocky' Ultra4 Bronco RTR",
     "year": 2017,
-    "make": "Ford",
+    "make": "ford",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -5923,7 +5923,7 @@
     "img": "images/cars/side/fh5_car_191.jpg?v=1",
     "name": "#25 Mustang RTR",
     "year": 2018,
-    "make": "Ford",
+    "make": "ford",
     "category": "drift cars",
     "price": 500000,
     "sources": [
@@ -5954,7 +5954,7 @@
     "img": "images/cars/side/fh5_car_192.jpg?v=1",
     "name": "Mustang GT",
     "year": 2018,
-    "make": "Ford",
+    "make": "ford",
     "category": "modern muscle",
     "price": 40000,
     "sources": [
@@ -5985,7 +5985,7 @@
     "img": "images/cars/side/fh5_car_193.jpg?v=1",
     "name": "Mustang RTR Spec 5",
     "year": 2018,
-    "make": "Ford",
+    "make": "ford",
     "category": "modern muscle",
     "price": 105000,
     "sources": [
@@ -6016,7 +6016,7 @@
     "img": "images/cars/side/fh5_car_194.jpg?v=1",
     "name": "#88 Mustang RTR",
     "year": 2018,
-    "make": "Ford",
+    "make": "ford",
     "category": "drift cars",
     "price": 500000,
     "sources": [
@@ -6047,7 +6047,7 @@
     "img": "images/cars/side/fh5_car_195.jpg?v=1",
     "name": "Ranger Raptor",
     "year": 2019,
-    "make": "Ford",
+    "make": "ford",
     "category": "pick-up & 4x4's",
     "price": 58000,
     "sources": [
@@ -6080,7 +6080,7 @@
     "img": "images/cars/side/fh5_car_196.jpg?v=1",
     "name": "Mustang Shelby GT500",
     "year": 2020,
-    "make": "Ford",
+    "make": "ford",
     "category": "modern muscle",
     "price": 100000,
     "sources": [
@@ -6111,7 +6111,7 @@
     "img": "images/cars/side/fh5_car_197.jpg?v=2",
     "name": "#2069 Ford Performance Bronco R",
     "year": 2020,
-    "make": "Ford",
+    "make": "ford",
     "category": "offroad",
     "price": 250000,
     "sources": [
@@ -6142,7 +6142,7 @@
     "img": "images/cars/side/fh5_car_198.jpg?v=1",
     "name": "#2069 Ford Performance Bronco R \"Welcome Pack\"",
     "year": 2020,
-    "make": "Ford",
+    "make": "ford",
     "category": "offroad",
     "price": 250000,
     "sources": [
@@ -6172,7 +6172,7 @@
     "img": "images/cars/side/fh5_car_199.jpg?v=1",
     "name": "Super Duty F-450 DRW PLATINUM",
     "year": 2020,
-    "make": "Ford",
+    "make": "ford",
     "category": "pick-up & 4x4's",
     "price": 70000,
     "sources": [
@@ -6203,7 +6203,7 @@
     "img": "images/cars/side/fh5_car_200.jpg?v=1",
     "name": "Bronco",
     "year": 2021,
-    "make": "Ford",
+    "make": "ford",
     "category": "pick-up & 4x4's",
     "price": 55000,
     "sources": [
@@ -6232,9 +6232,9 @@
   {
     "id": 201,
     "img": "images/cars/side/fh5_car_201.jpg?v=1",
-    "name": "Drift #98 BMW 325i",
+    "name": "#98 BMW 325i",
     "year": 1989,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -6263,9 +6263,9 @@
   {
     "id": 202,
     "img": "images/cars/side/fh5_car_202.jpg?v=1",
-    "name": "Drift #777 Nissan 240SX",
+    "name": "#777 Nissan 240SX",
     "year": 1997,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -6295,9 +6295,9 @@
   {
     "id": 203,
     "img": "images/cars/side/fh5_car_203.jpg?v=1",
-    "name": "Drift #43 Dodge Viper SRT10",
+    "name": "#43 Dodge Viper SRT10",
     "year": 2006,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -6327,9 +6327,9 @@
   {
     "id": 204,
     "img": "images/cars/side/fh5_car_204.jpg?v=1",
-    "name": "Drift #117 599 GTB Fiorano",
+    "name": "#117 599 GTB Fiorano",
     "year": 2007,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 500000,
     "sources": [
@@ -6358,9 +6358,9 @@
   {
     "id": 205,
     "img": "images/cars/side/fh5_car_205.jpg?v=1",
-    "name": "Drift #777 Chevrolet Corvette",
+    "name": "#777 Chevrolet Corvette",
     "year": 2013,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -6389,9 +6389,9 @@
   {
     "id": 206,
     "img": "images/cars/side/fh5_car_206.jpg?v=1",
-    "name": "Drift #13 Ford Mustang",
+    "name": "#13 Ford Mustang",
     "year": 2015,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -6420,9 +6420,9 @@
   {
     "id": 207,
     "img": "images/cars/side/fh5_car_207.jpg?v=1",
-    "name": "Drift #530 HSV Maloo GEN-F",
+    "name": "#530 HSV Maloo GEN-F",
     "year": 2016,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -6451,9 +6451,9 @@
   {
     "id": 208,
     "img": "images/cars/side/fh5_car_208.jpg?v=1",
-    "name": "Drift #64 Nissan 370Z",
+    "name": "#64 Nissan 370Z",
     "year": 2018,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -6483,9 +6483,9 @@
   {
     "id": 209,
     "img": "images/cars/side/fh5_car_209.jpg?v=1",
-    "name": "Motorsports F9",
+    "name": "F9",
     "year": 2018,
-    "make": "Funco",
+    "make": "funco motorsports",
     "category": "unlimited buggies",
     "price": 500000,
     "sources": [
@@ -6516,7 +6516,7 @@
     "img": "images/cars/side/fh5_car_210.jpg?v=1",
     "name": "Vandura G-1500",
     "year": 1983,
-    "make": "GMC",
+    "make": "gmc",
     "category": "vans and utility",
     "price": 25000,
     "sources": [
@@ -6547,7 +6547,7 @@
     "img": "images/cars/side/fh5_car_211.jpg?v=1",
     "name": "Venom GT",
     "year": 2012,
-    "make": "Hennessey",
+    "make": "hennessey",
     "category": "hypercars",
     "price": 1200000,
     "sources": [
@@ -6578,7 +6578,7 @@
     "img": "images/cars/side/fh5_car_212.jpg?v=1",
     "name": "VelociRaptor 6x6",
     "year": 2019,
-    "make": "Hennessey",
+    "make": "hennessey",
     "category": "pick-up & 4x4's",
     "price": 350000,
     "sources": [
@@ -6609,7 +6609,7 @@
     "img": "images/cars/side/fh5_car_213.jpg?v=1",
     "name": "HQ Monaro GTS 350",
     "year": 1973,
-    "make": "Holden",
+    "make": "holden",
     "category": "classic muscle",
     "price": 75000,
     "sources": [
@@ -6640,7 +6640,7 @@
     "img": "images/cars/side/fh5_car_214.jpg?v=1",
     "name": "Sandman HQ panel van",
     "year": 1974,
-    "make": "Holden",
+    "make": "holden",
     "category": "vans and utility",
     "price": 55000,
     "sources": [
@@ -6671,7 +6671,7 @@
     "img": "images/cars/side/fh5_car_215.jpg?v=1",
     "name": "Torana A9X",
     "year": 1977,
-    "make": "Holden",
+    "make": "holden",
     "category": "classic muscle",
     "price": 130000,
     "sources": [
@@ -6702,7 +6702,7 @@
     "img": "images/cars/side/fh5_car_216.jpg?v=1",
     "name": "Civic RS",
     "year": 1974,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -6732,7 +6732,7 @@
     "img": "images/cars/side/fh5_car_217.jpg?v=1",
     "name": "CR-X SiR",
     "year": 1991,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro hot hatch",
     "price": 20000,
     "sources": [
@@ -6762,7 +6762,7 @@
     "img": "images/cars/side/fh5_car_218.jpg?v=1",
     "name": "NSX-R",
     "year": 1992,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro sports cars",
     "price": 90000,
     "sources": [
@@ -6793,7 +6793,7 @@
     "img": "images/cars/side/fh5_car_219.jpg?v=1",
     "name": "Prelude Si",
     "year": 1994,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro hot hatch",
     "price": 20000,
     "sources": [
@@ -6823,7 +6823,7 @@
     "img": "images/cars/side/fh5_car_220.jpg?v=1",
     "name": "Civic Type R",
     "year": 1997,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -6853,7 +6853,7 @@
     "img": "images/cars/side/fh5_car_221.jpg?v=1",
     "name": "S2000",
     "year": 2003,
-    "make": "Honda",
+    "make": "honda",
     "category": "modern sports cars",
     "price": 25000,
     "sources": [
@@ -6884,7 +6884,7 @@
     "img": "images/cars/side/fh5_car_222.jpg?v=1",
     "name": "Civic Type R",
     "year": 2004,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -6914,7 +6914,7 @@
     "img": "images/cars/side/fh5_car_223.jpg?v=1",
     "name": "NSX-R",
     "year": 2005,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro sports cars",
     "price": 150000,
     "sources": [
@@ -6946,7 +6946,7 @@
     "img": "images/cars/side/fh5_car_224.jpg?v=1",
     "name": "NSX-R GT",
     "year": 2005,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro sports cars",
     "price": 500000,
     "sources": [
@@ -6978,7 +6978,7 @@
     "img": "images/cars/side/fh5_car_225.jpg?v=1",
     "name": "Civic Type R",
     "year": 2007,
-    "make": "Honda",
+    "make": "honda",
     "category": "hot hatch",
     "price": 20000,
     "sources": [
@@ -7008,7 +7008,7 @@
     "img": "images/cars/side/fh5_car_226.jpg?v=1",
     "name": "S2000 CR",
     "year": 2009,
-    "make": "Honda",
+    "make": "honda",
     "category": "modern sports cars",
     "price": 25000,
     "sources": [
@@ -7039,7 +7039,7 @@
     "img": "images/cars/side/fh5_car_228.jpg?v=2",
     "name": "Civic Coupe",
     "year": 2016,
-    "make": "Honda",
+    "make": "honda",
     "category": "rally monsters",
     "price": 155000,
     "sources": [
@@ -7071,7 +7071,7 @@
     "img": "images/cars/side/fh5_car_229.jpg?v=1",
     "name": "Civic Type R",
     "year": 2018,
-    "make": "Honda",
+    "make": "honda",
     "category": "super hot hatch",
     "price": 59000,
     "sources": [
@@ -7101,7 +7101,7 @@
     "img": "images/cars/side/fh5_car_230.jpg?v=1",
     "name": "Chevrolet Bel Air",
     "year": 1955,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "rods and customs",
     "price": 76000,
     "sources": [
@@ -7133,7 +7133,7 @@
     "img": "images/cars/side/fh5_car_231.jpg?v=1",
     "name": "Ford \"Hoonicorn\" Mustang",
     "year": 1965,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "drift cars",
     "price": 500000,
     "sources": [
@@ -7164,7 +7164,7 @@
     "img": "images/cars/side/fh5_car_232.jpg?v=1",
     "name": "GYMKHANA 10 Ford Hoonicorn Mustang",
     "year": 1965,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "drift cars",
     "price": 500000,
     "sources": [
@@ -7196,7 +7196,7 @@
     "img": "images/cars/side/fh5_car_233.jpg?v=1",
     "name": "Chevrolet Napalm Nova",
     "year": 1972,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "classic muscle",
     "price": 50000,
     "sources": [
@@ -7227,7 +7227,7 @@
     "img": "images/cars/side/fh5_car_234.jpg?v=1",
     "name": "GYMKHANA 10 Ford F-150 \"Hoonitruck\"",
     "year": 1977,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "drift cars",
     "price": 500000,
     "sources": [
@@ -7258,7 +7258,7 @@
     "img": "images/cars/side/fh5_car_235.jpg?v=1",
     "name": "Ford Escort RS1800",
     "year": 1978,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "rally monsters",
     "price": 300000,
     "sources": [
@@ -7289,7 +7289,7 @@
     "img": "images/cars/side/fh5_car_236.jpg?v=1",
     "name": "Ford RS200 Evolution",
     "year": 1986,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -7320,7 +7320,7 @@
     "img": "images/cars/side/fh5_car_237.jpg?v=1",
     "name": "Rauh-Welt Begriff Porsche 911 Turbo",
     "year": 1991,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "retro supercars",
     "price": 160000,
     "sources": [
@@ -7353,7 +7353,7 @@
     "img": "images/cars/side/fh5_car_238.jpg?v=1",
     "name": "GYMKHANA 10 Ford Escort Cosworth Group A",
     "year": 1991,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -7384,7 +7384,7 @@
     "img": "images/cars/side/fh5_car_239.jpg?v=1",
     "name": "Mazda RX-7 Twerkstallion",
     "year": 1992,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "drift cars",
     "price": 50000,
     "sources": [
@@ -7417,7 +7417,7 @@
     "img": "images/cars/side/fh5_car_240.jpg?v=1",
     "name": "Ford Escort RS Cosworth WRC \u201cCossie V2\u201d",
     "year": 1994,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -7448,7 +7448,7 @@
     "img": "images/cars/side/fh5_car_241.jpg?v=1",
     "name": "GYMKHANA 10 Ford Focus RS RX",
     "year": 2016,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -7477,9 +7477,9 @@
   {
     "id": 242,
     "img": "images/cars/side/fh5_car_242.jpg?v=1",
-    "name": "Wheels Twin Mill",
+    "name": "Twin Mill",
     "year": 1969,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "rods and customs",
     "price": 110000,
     "sources": [
@@ -7510,9 +7510,9 @@
   {
     "id": 243,
     "img": "images/cars/side/fh5_car_243.jpg?v=1",
-    "name": "Wheels Bone Shaker",
+    "name": "Bone Shaker",
     "year": 2011,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "rods and customs",
     "price": 150000,
     "sources": [
@@ -7543,7 +7543,7 @@
     "img": "images/cars/side/fh5_car_244.jpg?v=1",
     "name": "GEN-F GTS",
     "year": 2014,
-    "make": "HSV",
+    "make": "hsv",
     "category": "modern muscle",
     "price": 75000,
     "sources": [
@@ -7574,7 +7574,7 @@
     "img": "images/cars/side/fh5_car_245.jpg?v=1",
     "name": "Limited Edition GEN-F GTS Maloo",
     "year": 2014,
-    "make": "HSV",
+    "make": "hsv",
     "category": "vans and utility",
     "price": 62000,
     "sources": [
@@ -7605,7 +7605,7 @@
     "img": "images/cars/side/fh5_car_246.jpg?v=1",
     "name": "H1 Alpha",
     "year": 2006,
-    "make": "HUMMER",
+    "make": "hummer",
     "category": "pick-up & 4x4's",
     "price": 112000,
     "sources": [
@@ -7636,7 +7636,7 @@
     "img": "images/cars/side/fh5_car_247.jpg?v=1",
     "name": "Veloster N",
     "year": 2019,
-    "make": "Hyundai",
+    "make": "hyundai",
     "category": "super hot hatch",
     "price": 30000,
     "sources": [
@@ -7669,7 +7669,7 @@
     "img": "images/cars/side/fh5_car_248.jpg?v=1",
     "name": "Q60 Concept",
     "year": 2015,
-    "make": "Infiniti",
+    "make": "infiniti",
     "category": "super saloons",
     "price": 50000,
     "sources": [
@@ -7701,7 +7701,7 @@
     "img": "images/cars/side/fh5_car_249.jpg?v=1",
     "name": "Scout 800A",
     "year": 1970,
-    "make": "International",
+    "make": "international",
     "category": "pick-up & 4x4's",
     "price": 40000,
     "sources": [
@@ -7732,7 +7732,7 @@
     "img": "images/cars/side/fh5_car_250.jpg?v=1",
     "name": "D-Type",
     "year": 1956,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "classic racers",
     "price": 22000000,
     "sources": [
@@ -7764,7 +7764,7 @@
     "img": "images/cars/side/fh5_car_251.jpg?v=1",
     "name": "Mk II 3.8",
     "year": 1959,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "classic racers",
     "price": 80000,
     "sources": [
@@ -7795,7 +7795,7 @@
     "img": "images/cars/side/fh5_car_252.jpg?v=1",
     "name": "E-type",
     "year": 1961,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "rare classics",
     "price": 150000,
     "sources": [
@@ -7826,7 +7826,7 @@
     "img": "images/cars/side/fh5_car_253.jpg?v=1",
     "name": "Lightweight E-Type",
     "year": 1964,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "classic racers",
     "price": 7500000,
     "sources": [
@@ -7857,7 +7857,7 @@
     "img": "images/cars/side/fh5_car_254.jpg?v=1",
     "name": "Sport XJR-15",
     "year": 1991,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "retro supercars",
     "price": 500000,
     "sources": [
@@ -7887,7 +7887,7 @@
     "img": "images/cars/side/fh5_car_255.jpg?v=1",
     "name": "XJ220",
     "year": 1993,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "retro supercars",
     "price": 350000,
     "sources": [
@@ -7920,7 +7920,7 @@
     "img": "images/cars/side/fh5_car_256.jpg?v=1",
     "name": "C-X75",
     "year": 2010,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "modern supercars",
     "price": 1500000,
     "sources": [
@@ -7951,7 +7951,7 @@
     "img": "images/cars/side/fh5_car_257.jpg?v=1",
     "name": "XKR-S",
     "year": 2012,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "gt cars",
     "price": 100000,
     "sources": [
@@ -7982,7 +7982,7 @@
     "img": "images/cars/side/fh5_car_258.jpg?v=1",
     "name": "F-Type R Coup\u00e9",
     "year": 2015,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "gt cars",
     "price": 110000,
     "sources": [
@@ -8015,7 +8015,7 @@
     "img": "images/cars/side/fh5_car_259.jpg?v=1",
     "name": "XFR-S",
     "year": 2015,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "super saloons",
     "price": 110000,
     "sources": [
@@ -8046,7 +8046,7 @@
     "img": "images/cars/side/fh5_car_260.jpg?v=1",
     "name": "XE-S",
     "year": 2015,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "super saloons",
     "price": 57000,
     "sources": [
@@ -8077,7 +8077,7 @@
     "img": "images/cars/side/fh5_car_261.jpg?v=1",
     "name": "F-TYPE Project 7",
     "year": 2016,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "track toys",
     "price": 190000,
     "sources": [
@@ -8108,7 +8108,7 @@
     "img": "images/cars/side/fh5_car_262.jpg?v=1",
     "name": "F-PACE S",
     "year": 2017,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "sports utility heroes",
     "price": 55000,
     "sources": [
@@ -8139,7 +8139,7 @@
     "img": "images/cars/side/fh5_car_263.jpg?v=1",
     "name": "I-PACE",
     "year": 2018,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "sports utility heroes",
     "price": 87000,
     "sources": [
@@ -8171,7 +8171,7 @@
     "img": "images/cars/side/fh5_car_264.jpg?v=1",
     "name": "CJ5 Renegade",
     "year": 1976,
-    "make": "Jeep",
+    "make": "jeep",
     "category": "pick-up & 4x4's",
     "price": 60000,
     "sources": [
@@ -8202,7 +8202,7 @@
     "img": "images/cars/side/fh5_car_265.jpg?v=1",
     "name": "Wrangler Rubicon",
     "year": 2012,
-    "make": "Jeep",
+    "make": "jeep",
     "category": "pick-up & 4x4's",
     "price": 50000,
     "sources": [
@@ -8233,7 +8233,7 @@
     "img": "images/cars/side/fh5_car_266.jpg?v=1",
     "name": "Grand Cherokee SRT",
     "year": 2014,
-    "make": "Jeep",
+    "make": "jeep",
     "category": "sports utility heroes",
     "price": 80000,
     "sources": [
@@ -8264,7 +8264,7 @@
     "img": "images/cars/side/fh5_car_267.jpg?v=1",
     "name": "Trailcat",
     "year": 2016,
-    "make": "Jeep",
+    "make": "jeep",
     "category": "unlimited offroad",
     "price": 75000,
     "sources": [
@@ -8296,7 +8296,7 @@
     "img": "images/cars/side/fh5_car_268.jpg?v=1",
     "name": "Grand Cherokee Trackhawk",
     "year": 2018,
-    "make": "Jeep",
+    "make": "jeep",
     "category": "sports utility heroes",
     "price": 73000,
     "sources": [
@@ -8327,7 +8327,7 @@
     "img": "images/cars/side/fh5_car_269.jpg?v=1",
     "name": "Gladiator Rubicon",
     "year": 2020,
-    "make": "Jeep",
+    "make": "jeep",
     "category": "pick-up & 4x4's",
     "price": 45000,
     "sources": [
@@ -8358,7 +8358,7 @@
     "img": "images/cars/side/fh5_car_270.jpg?v=1",
     "name": "CC8S",
     "year": 2002,
-    "make": "Koenigsegg",
+    "make": "koenigsegg",
     "category": "hypercars",
     "price": 400000,
     "sources": [
@@ -8389,7 +8389,7 @@
     "img": "images/cars/side/fh5_car_271.jpg?v=1",
     "name": "CCGT",
     "year": 2008,
-    "make": "Koenigsegg",
+    "make": "koenigsegg",
     "category": "extreme track toys",
     "price": 1000000,
     "sources": [
@@ -8422,7 +8422,7 @@
     "img": "images/cars/side/fh5_car_272.jpg?v=1",
     "name": "One:1",
     "year": 2015,
-    "make": "Koenigsegg",
+    "make": "koenigsegg",
     "category": "hypercars",
     "price": 2800000,
     "sources": [
@@ -8453,7 +8453,7 @@
     "img": "images/cars/side/fh5_car_273.jpg?v=1",
     "name": "Regera",
     "year": 2016,
-    "make": "Koenigsegg",
+    "make": "koenigsegg",
     "category": "hypercars",
     "price": 1900000,
     "sources": [
@@ -8485,7 +8485,7 @@
     "img": "images/cars/side/fh5_car_274.jpg?v=1",
     "name": "Agera RS",
     "year": 2017,
-    "make": "Koenigsegg",
+    "make": "koenigsegg",
     "category": "hypercars",
     "price": 2000000,
     "sources": [
@@ -8517,7 +8517,7 @@
     "img": "images/cars/side/fh5_car_275.jpg?v=1",
     "name": "Jesko",
     "year": 2020,
-    "make": "Koenigsegg",
+    "make": "koenigsegg",
     "category": "hypercars",
     "price": 2800000,
     "sources": [
@@ -8549,7 +8549,7 @@
     "img": "images/cars/side/fh5_car_276.jpg?v=1",
     "name": "X-Bow R",
     "year": 2013,
-    "make": "KTM",
+    "make": "ktm",
     "category": "track toys",
     "price": 105000,
     "sources": [
@@ -8580,7 +8580,7 @@
     "img": "images/cars/side/fh5_car_277.jpg?v=1",
     "name": "Miura P400",
     "year": 1967,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "rare classics",
     "price": 1000000,
     "sources": [
@@ -8611,7 +8611,7 @@
     "img": "images/cars/side/fh5_car_278.jpg?v=1",
     "name": "LM 002",
     "year": 1986,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "pick-up & 4x4's",
     "price": 180000,
     "sources": [
@@ -8643,7 +8643,7 @@
     "img": "images/cars/side/fh5_car_279.jpg?v=1",
     "name": "Countach LP5000 QV",
     "year": 1988,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "retro supercars",
     "price": 220000,
     "sources": [
@@ -8674,7 +8674,7 @@
     "img": "images/cars/side/fh5_car_280.jpg?v=1",
     "name": "Diablo SV",
     "year": 1997,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "retro supercars",
     "price": 174000,
     "sources": [
@@ -8705,7 +8705,7 @@
     "img": "images/cars/side/fh5_car_281.jpg?v=1",
     "name": "Diablo GTR",
     "year": 1999,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "extreme track toys",
     "price": 1000000,
     "sources": [
@@ -8738,7 +8738,7 @@
     "img": "images/cars/side/fh5_car_282.jpg?v=1",
     "name": "Revent\u00f3n",
     "year": 2008,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "modern supercars",
     "price": 1375000,
     "sources": [
@@ -8768,7 +8768,7 @@
     "img": "images/cars/side/fh5_car_283.jpg?v=1",
     "name": "Murci\u00e9lago LP 670-4 SV",
     "year": 2010,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "modern supercars",
     "price": 500000,
     "sources": [
@@ -8799,7 +8799,7 @@
     "img": "images/cars/side/fh5_car_284.jpg?v=1",
     "name": "Gallardo LP 570-4 Superleggera",
     "year": 2011,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "modern supercars",
     "price": 280000,
     "sources": [
@@ -8829,7 +8829,7 @@
     "img": "images/cars/side/fh5_car_285.jpg?v=1",
     "name": "Sesto Elemento",
     "year": 2011,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "extreme track toys",
     "price": 2500000,
     "sources": [
@@ -8861,7 +8861,7 @@
     "img": "images/cars/side/fh5_car_286.jpg?v=1",
     "name": "Aventador LP700-4",
     "year": 2012,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "hypercars",
     "price": 380000,
     "sources": [
@@ -8892,7 +8892,7 @@
     "img": "images/cars/side/fh5_car_287.jpg?v=1",
     "name": "Veneno",
     "year": 2013,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "hypercars",
     "price": 3000000,
     "sources": [
@@ -8923,7 +8923,7 @@
     "img": "images/cars/side/fh5_car_288.jpg?v=1",
     "name": "Hurac\u00e1n LP 610-4",
     "year": 2014,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "modern supercars",
     "price": 240000,
     "sources": [
@@ -8954,7 +8954,7 @@
     "img": "images/cars/side/fh5_car_289.jpg?v=1",
     "name": "Aventador Superveloce",
     "year": 2016,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "hypercars",
     "price": 480000,
     "sources": [
@@ -8986,7 +8986,7 @@
     "img": "images/cars/side/fh5_car_290.jpg?v=1",
     "name": "Centenario LP 770-4",
     "year": 2016,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "hypercars",
     "price": 2300000,
     "sources": [
@@ -9017,7 +9017,7 @@
     "img": "images/cars/side/fh5_car_291.jpg?v=1",
     "name": "Hurac\u00e1n Performante",
     "year": 2018,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "track toys",
     "price": 275000,
     "sources": [
@@ -9048,7 +9048,7 @@
     "img": "images/cars/side/fh5_car_292.jpg?v=1",
     "name": "Urus",
     "year": 2019,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "sports utility heroes",
     "price": 150000,
     "sources": [
@@ -9078,9 +9078,9 @@
   {
     "id": 293,
     "img": "images/cars/side/fh5_car_293.jpg?v=1",
-    "name": "Rover Series III",
+    "name": "Series III",
     "year": 1972,
-    "make": "Land",
+    "make": "land rover",
     "category": "pick-up & 4x4's",
     "price": 20000,
     "sources": [
@@ -9109,9 +9109,9 @@
   {
     "id": 294,
     "img": "images/cars/side/fh5_car_294.jpg?v=1",
-    "name": "Rover Range Rover",
+    "name": "Range Rover",
     "year": 1973,
-    "make": "Land",
+    "make": "land rover",
     "category": "pick-up & 4x4's",
     "price": 50000,
     "sources": [
@@ -9140,9 +9140,9 @@
   {
     "id": 295,
     "img": "images/cars/side/fh5_car_295.jpg?v=1",
-    "name": "Rover Defender 90",
+    "name": "Defender 90",
     "year": 1997,
-    "make": "Land",
+    "make": "land rover",
     "category": "pick-up & 4x4's",
     "price": 30000,
     "sources": [
@@ -9171,9 +9171,9 @@
   {
     "id": 296,
     "img": "images/cars/side/fh5_car_296.jpg?v=1",
-    "name": "Rover Range Rover Sport SVR",
+    "name": "Range Rover Sport SVR",
     "year": 2015,
-    "make": "Land",
+    "make": "land rover",
     "category": "sports utility heroes",
     "price": 133000,
     "sources": [
@@ -9202,9 +9202,9 @@
   {
     "id": 297,
     "img": "images/cars/side/fh5_car_297.jpg?v=1",
-    "name": "Rover Range Rover Velar First Edition",
+    "name": "Range Rover Velar First Edition",
     "year": 2018,
-    "make": "Land",
+    "make": "land rover",
     "category": "sports utility heroes",
     "price": 85000,
     "sources": [
@@ -9233,9 +9233,9 @@
   {
     "id": 298,
     "img": "images/cars/side/fh5_car_298.jpg?v=1",
-    "name": "Rover Defender 110 X",
+    "name": "Defender 110 X",
     "year": 2020,
-    "make": "Land",
+    "make": "land rover",
     "category": "sports utility heroes",
     "price": 80000,
     "sources": [
@@ -9266,7 +9266,7 @@
     "img": "images/cars/side/fh5_car_299.jpg?v=1",
     "name": "SC300",
     "year": 1997,
-    "make": "Lexus",
+    "make": "lexus",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -9297,7 +9297,7 @@
     "img": "images/cars/side/fh5_car_300.jpg?v=1",
     "name": "LFA",
     "year": 2010,
-    "make": "Lexus",
+    "make": "lexus",
     "category": "modern supercars",
     "price": 500000,
     "sources": [
@@ -9329,7 +9329,7 @@
     "img": "images/cars/side/fh5_car_301.jpg?v=1",
     "name": "RC F",
     "year": 2015,
-    "make": "Lexus",
+    "make": "lexus",
     "category": "super saloons",
     "price": 75000,
     "sources": [
@@ -9359,9 +9359,9 @@
   {
     "id": 302,
     "img": "images/cars/side/fh5_car_302.jpg?v=1",
-    "name": "Motors Rally Fighter",
+    "name": "Rally Fighter",
     "year": 2014,
-    "make": "Local",
+    "make": "local motors",
     "category": "unlimited offroad",
     "price": 100000,
     "sources": [
@@ -9393,7 +9393,7 @@
     "img": "images/cars/side/fh5_car_303.jpg?v=1",
     "name": "#6 Penske Sunoco T70 MkIIIB",
     "year": 1969,
-    "make": "Lola",
+    "make": "lola",
     "category": "classic racers",
     "price": 850000,
     "sources": [
@@ -9425,7 +9425,7 @@
     "img": "images/cars/side/fh5_car_304.jpg?v=1",
     "name": "Elan Sprint",
     "year": 1971,
-    "make": "Lotus",
+    "make": "lotus",
     "category": "classic sports cars",
     "price": 57000,
     "sources": [
@@ -9456,7 +9456,7 @@
     "img": "images/cars/side/fh5_car_305.jpg?v=1",
     "name": "Elise GT1",
     "year": 1997,
-    "make": "Lotus",
+    "make": "lotus",
     "category": "retro supercars",
     "price": 1800000,
     "sources": [
@@ -9488,7 +9488,7 @@
     "img": "images/cars/side/fh5_car_306.jpg?v=1",
     "name": "Elise Series 1 Sport 190",
     "year": 1999,
-    "make": "Lotus",
+    "make": "lotus",
     "category": "retro sports cars",
     "price": 81000,
     "sources": [
@@ -9519,7 +9519,7 @@
     "img": "images/cars/side/fh5_car_307.jpg?v=1",
     "name": "Exige S",
     "year": 2012,
-    "make": "Lotus",
+    "make": "lotus",
     "category": "modern sports cars",
     "price": 85000,
     "sources": [
@@ -9551,7 +9551,7 @@
     "img": "images/cars/side/fh5_car_308.jpg?v=1",
     "name": "3-Eleven",
     "year": 2016,
-    "make": "Lotus",
+    "make": "lotus",
     "category": "track toys",
     "price": 150000,
     "sources": [
@@ -9582,7 +9582,7 @@
     "img": "images/cars/side/fh5_car_309.jpg?v=1",
     "name": "Evija",
     "year": 2020,
-    "make": "Lotus",
+    "make": "lotus",
     "category": "hypercars",
     "price": 2500000,
     "sources": [
@@ -9613,7 +9613,7 @@
     "img": "images/cars/side/fh5_car_310.jpg?v=1",
     "name": "MC12 Versione Corsa",
     "year": 2008,
-    "make": "Maserati",
+    "make": "maserati",
     "category": "extreme track toys",
     "price": 2500000,
     "sources": [
@@ -9644,7 +9644,7 @@
     "img": "images/cars/side/fh5_car_311.jpg?v=1",
     "name": "Gran Turismo S",
     "year": 2010,
-    "make": "Maserati",
+    "make": "maserati",
     "category": "gt cars",
     "price": 156000,
     "sources": [
@@ -9675,7 +9675,7 @@
     "img": "images/cars/side/fh5_car_312.jpg?v=1",
     "name": "Levante S",
     "year": 2017,
-    "make": "Maserati",
+    "make": "maserati",
     "category": "sports utility heroes",
     "price": 85000,
     "sources": [
@@ -9706,7 +9706,7 @@
     "img": "images/cars/side/fh5_car_313.jpg?v=1",
     "name": "Savanna RX-7",
     "year": 1990,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -9737,7 +9737,7 @@
     "img": "images/cars/side/fh5_car_314.jpg?v=1",
     "name": "MX-5 Miata",
     "year": 1994,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -9768,7 +9768,7 @@
     "img": "images/cars/side/fh5_car_315.jpg?v=1",
     "name": "RX-7",
     "year": 1997,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "retro sports cars",
     "price": 35000,
     "sources": [
@@ -9799,7 +9799,7 @@
     "img": "images/cars/side/fh5_car_316.jpg?v=1",
     "name": "RX-7 Spirit R Type-A",
     "year": 2002,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "retro sports cars",
     "price": 30000,
     "sources": [
@@ -9830,7 +9830,7 @@
     "img": "images/cars/side/fh5_car_317.jpg?v=1",
     "name": "Mazdaspeed MX-5",
     "year": 2005,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -9861,7 +9861,7 @@
     "img": "images/cars/side/fh5_car_318.jpg?v=1",
     "name": "RX-8 R3",
     "year": 2011,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "modern sports cars",
     "price": 27000,
     "sources": [
@@ -9892,7 +9892,7 @@
     "img": "images/cars/side/fh5_car_319.jpg?v=1",
     "name": "MX-5",
     "year": 2013,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "modern sports cars",
     "price": 26000,
     "sources": [
@@ -9923,7 +9923,7 @@
     "img": "images/cars/side/fh5_car_320.jpg?v=1",
     "name": "MX-5",
     "year": 2016,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "modern sports cars",
     "price": 35000,
     "sources": [
@@ -9954,7 +9954,7 @@
     "img": "images/cars/side/fh5_car_321.jpg?v=1",
     "name": "F1",
     "year": 1993,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "retro supercars",
     "price": 15000000,
     "sources": [
@@ -9987,7 +9987,7 @@
     "img": "images/cars/side/fh5_car_322.jpg?v=1",
     "name": "F1 GT",
     "year": 1997,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "retro supercars",
     "price": 15000000,
     "sources": [
@@ -10019,7 +10019,7 @@
     "img": "images/cars/side/fh5_car_323.jpg?v=1",
     "name": "P1",
     "year": 2013,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "hypercars",
     "price": 1350000,
     "sources": [
@@ -10050,7 +10050,7 @@
     "img": "images/cars/side/fh5_car_324.jpg?v=1",
     "name": "650S Coup\u00e9",
     "year": 2015,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "modern supercars",
     "price": 420000,
     "sources": [
@@ -10081,7 +10081,7 @@
     "img": "images/cars/side/fh5_car_325.jpg?v=1",
     "name": "570S Coup\u00e9",
     "year": 2015,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "modern supercars",
     "price": 224000,
     "sources": [
@@ -10112,7 +10112,7 @@
     "img": "images/cars/side/fh5_car_326.jpg?v=1",
     "name": "720S Coup\u00e9",
     "year": 2018,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "modern supercars",
     "price": 340000,
     "sources": [
@@ -10142,7 +10142,7 @@
     "img": "images/cars/side/fh5_car_327.jpg?v=1",
     "name": "Senna",
     "year": 2018,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "hypercars",
     "price": 1000000,
     "sources": [
@@ -10172,7 +10172,7 @@
     "img": "images/cars/side/fh5_car_328.jpg?v=1",
     "name": "600LT Coup\u00e9",
     "year": 2018,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "track toys",
     "price": 260000,
     "sources": [
@@ -10203,7 +10203,7 @@
     "img": "images/cars/side/fh5_car_329.jpg?v=1",
     "name": "720S Spider",
     "year": 2019,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "modern supercars",
     "price": 340000,
     "sources": [
@@ -10234,7 +10234,7 @@
     "img": "images/cars/side/fh5_car_330.jpg?v=1",
     "name": "Speedtail",
     "year": 2019,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "hypercars",
     "price": 2250000,
     "sources": [
@@ -10266,7 +10266,7 @@
     "img": "images/cars/side/fh5_car_331.jpg?v=1",
     "name": "GT",
     "year": 2020,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "super gt",
     "price": 210000,
     "sources": [
@@ -10296,7 +10296,7 @@
     "img": "images/cars/side/fh5_car_332.jpg?v=1",
     "name": "C 63 S Coup\u00e9",
     "year": 2016,
-    "make": "Mercedes-AMG",
+    "make": "mercedes-amg",
     "category": "super saloons",
     "price": 90000,
     "sources": [
@@ -10327,7 +10327,7 @@
     "img": "images/cars/side/fh5_car_333.jpg?v=1",
     "name": "GT R",
     "year": 2017,
-    "make": "Mercedes-AMG",
+    "make": "mercedes-amg",
     "category": "super gt",
     "price": 295000,
     "sources": [
@@ -10358,7 +10358,7 @@
     "img": "images/cars/side/fh5_car_334.jpg?v=1",
     "name": "GT 4-Door Coup\u00e9",
     "year": 2018,
-    "make": "Mercedes-AMG",
+    "make": "mercedes-amg",
     "category": "super saloons",
     "price": 175000,
     "sources": [
@@ -10389,7 +10389,7 @@
     "img": "images/cars/side/fh5_car_335.jpg?v=1",
     "name": "E 63 S",
     "year": 2018,
-    "make": "Mercedes-AMG",
+    "make": "mercedes-amg",
     "category": "super saloons",
     "price": 135000,
     "sources": [
@@ -10422,7 +10422,7 @@
     "img": "images/cars/side/fh5_car_336.jpg?v=1",
     "name": "Mercedes-AMG ONE",
     "year": 2021,
-    "make": "Mercedes-AMG",
+    "make": "mercedes-amg",
     "category": "hypercars",
     "price": 2700000,
     "sources": [
@@ -10453,7 +10453,7 @@
     "img": "images/cars/side/fh5_car_337.jpg?v=1",
     "name": "SSK",
     "year": 1929,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "rare classics",
     "price": 7500000,
     "sources": [
@@ -10485,7 +10485,7 @@
     "img": "images/cars/side/fh5_car_338.jpg?v=1",
     "name": "W154",
     "year": 1939,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "vintage racers",
     "price": 20000000,
     "sources": [
@@ -10515,7 +10515,7 @@
     "img": "images/cars/side/fh5_car_339.jpg?v=1",
     "name": "300 SL Coup\u00e9",
     "year": 1954,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "rare classics",
     "price": 1200000,
     "sources": [
@@ -10547,7 +10547,7 @@
     "img": "images/cars/side/fh5_car_340.jpg?v=1",
     "name": "AMG Hammer Coupe",
     "year": 1987,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "retro saloons",
     "price": 165000,
     "sources": [
@@ -10578,7 +10578,7 @@
     "img": "images/cars/side/fh5_car_341.jpg?v=1",
     "name": "190E 2.5-16 Evolution II",
     "year": 1990,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "retro saloons",
     "price": 150000,
     "sources": [
@@ -10609,7 +10609,7 @@
     "img": "images/cars/side/fh5_car_342.jpg?v=1",
     "name": "AMG CLK GTR",
     "year": 1998,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "retro supercars",
     "price": 2000000,
     "sources": [
@@ -10640,7 +10640,7 @@
     "img": "images/cars/side/fh5_car_343.jpg?v=1",
     "name": "SLS AMG",
     "year": 2011,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "super gt",
     "price": 200000,
     "sources": [
@@ -10672,7 +10672,7 @@
     "img": "images/cars/side/fh5_car_344.jpg?v=1",
     "name": "SLK 55 AMG",
     "year": 2012,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "modern sports cars",
     "price": 78000,
     "sources": [
@@ -10703,7 +10703,7 @@
     "img": "images/cars/side/fh5_car_345.jpg?v=1",
     "name": "C 63 AMG Coup\u00e9 Black Series",
     "year": 2012,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "super saloons",
     "price": 150000,
     "sources": [
@@ -10735,7 +10735,7 @@
     "img": "images/cars/side/fh5_car_346.jpg?v=1",
     "name": "G 65 AMG",
     "year": 2013,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "pick-up & 4x4's",
     "price": 350000,
     "sources": [
@@ -10767,7 +10767,7 @@
     "img": "images/cars/side/fh5_car_347.jpg?v=1",
     "name": "A 45 AMG",
     "year": 2013,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "super hot hatch",
     "price": 65000,
     "sources": [
@@ -10798,7 +10798,7 @@
     "img": "images/cars/side/fh5_car_348.jpg?v=1",
     "name": "E 63 AMG",
     "year": 2013,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "super saloons",
     "price": 105000,
     "sources": [
@@ -10830,7 +10830,7 @@
     "img": "images/cars/side/fh5_car_349.jpg?v=1",
     "name": "Unimog U5023",
     "year": 2014,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "trucks",
     "price": 100000,
     "sources": [
@@ -10861,7 +10861,7 @@
     "img": "images/cars/side/fh5_car_350.jpg?v=1",
     "name": "G 63 AMG 6x6",
     "year": 2014,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "pick-up & 4x4's",
     "price": 525000,
     "sources": [
@@ -10893,7 +10893,7 @@
     "img": "images/cars/side/fh5_car_351.jpg?v=1",
     "name": "#24 Tankpool24 Racing Truck",
     "year": 2015,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "trucks",
     "price": 500000,
     "sources": [
@@ -10924,7 +10924,7 @@
     "img": "images/cars/side/fh5_car_352.jpg?v=1",
     "name": "X-Class",
     "year": 2018,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "pick-up & 4x4's",
     "price": 65000,
     "sources": [
@@ -10955,7 +10955,7 @@
     "img": "images/cars/side/fh5_car_353.jpg?v=1",
     "name": "Manx",
     "year": 1971,
-    "make": "Meyers",
+    "make": "meyers",
     "category": "cult cars",
     "price": 35000,
     "sources": [
@@ -10988,7 +10988,7 @@
     "img": "images/cars/side/fh5_car_354.jpg?v=1",
     "name": "Metro 6R4",
     "year": 1986,
-    "make": "MG",
+    "make": "mg",
     "category": "rally monsters",
     "price": 125000,
     "sources": [
@@ -11019,7 +11019,7 @@
     "img": "images/cars/side/fh5_car_355.jpg?v=1",
     "name": "Cooper S",
     "year": 1965,
-    "make": "Mini",
+    "make": "mini",
     "category": "classic rally",
     "price": 30000,
     "sources": [
@@ -11050,7 +11050,7 @@
     "img": "images/cars/side/fh5_car_356.jpg?v=1",
     "name": "John Cooper Works",
     "year": 2009,
-    "make": "Mini",
+    "make": "mini",
     "category": "hot hatch",
     "price": 25000,
     "sources": [
@@ -11081,7 +11081,7 @@
     "img": "images/cars/side/fh5_car_357.jpg?v=1",
     "name": "John Cooper Works GP",
     "year": 2012,
-    "make": "Mini",
+    "make": "mini",
     "category": "hot hatch",
     "price": 38000,
     "sources": [
@@ -11112,7 +11112,7 @@
     "img": "images/cars/side/fh5_car_358.jpg?v=1",
     "name": "X-Raid ALL4 Racing Countryman",
     "year": 2013,
-    "make": "Mini",
+    "make": "mini",
     "category": "offroad",
     "price": 250000,
     "sources": [
@@ -11145,7 +11145,7 @@
     "img": "images/cars/side/fh5_car_359.jpg?v=1",
     "name": "John Cooper Works Countryman ALL4",
     "year": 2018,
-    "make": "Mini",
+    "make": "mini",
     "category": "sports utility heroes",
     "price": 38500,
     "sources": [
@@ -11176,7 +11176,7 @@
     "img": "images/cars/side/fh5_car_360.jpg?v=1",
     "name": "X-Raid John Cooper Works Buggy",
     "year": 2018,
-    "make": "Mini",
+    "make": "mini",
     "category": "offroad",
     "price": 250000,
     "sources": [
@@ -11207,7 +11207,7 @@
     "img": "images/cars/side/fh5_car_361.jpg?v=1",
     "name": "Starion ESI-R",
     "year": 1988,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "retro sports cars",
     "price": 20000,
     "sources": [
@@ -11238,7 +11238,7 @@
     "img": "images/cars/side/fh5_car_362.jpg?v=1",
     "name": "Eclipse GSX",
     "year": 1995,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -11269,7 +11269,7 @@
     "img": "images/cars/side/fh5_car_363.jpg?v=1",
     "name": "GTO",
     "year": 1997,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "retro sports cars",
     "price": 20000,
     "sources": [
@@ -11300,7 +11300,7 @@
     "img": "images/cars/side/fh5_car_364.jpg?v=2",
     "name": "Lancer Evolution VI GSR",
     "year": 1999,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "retro rally",
     "price": 28000,
     "sources": [
@@ -11331,7 +11331,7 @@
     "img": "images/cars/side/fh5_car_365.jpg?v=1",
     "name": "Lancer Evolution VIII MR",
     "year": 2004,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "modern rally",
     "price": 31000,
     "sources": [
@@ -11362,7 +11362,7 @@
     "img": "images/cars/side/fh5_car_366.jpg?v=1",
     "name": "Lancer Evolution IX MR",
     "year": 2006,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "modern rally",
     "price": 27000,
     "sources": [
@@ -11393,7 +11393,7 @@
     "img": "images/cars/side/fh5_car_367.jpg?v=2",
     "name": "Lancer Evolution X GSR",
     "year": 2008,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "modern rally",
     "price": 43000,
     "sources": [
@@ -11425,7 +11425,7 @@
     "img": "images/cars/side/fh5_car_368.jpg?v=1",
     "name": "Lancer Evolution X GSR \"Welcome Pack\"",
     "year": 2008,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "modern rally",
     "price": 43000,
     "sources": [
@@ -11455,7 +11455,7 @@
     "img": "images/cars/side/fh5_car_369.jpg?v=1",
     "name": "3 Wheeler",
     "year": 2014,
-    "make": "Morgan",
+    "make": "morgan",
     "category": "cult cars",
     "price": 50000,
     "sources": [
@@ -11486,7 +11486,7 @@
     "img": "images/cars/side/fh5_car_371.jpg?v=1",
     "name": "MT900S",
     "year": 2010,
-    "make": "Mosler",
+    "make": "mosler",
     "category": "extreme track toys",
     "price": 320000,
     "sources": [
@@ -11517,7 +11517,7 @@
     "img": "images/cars/side/fh5_car_372.jpg?v=1",
     "name": "Napier-Railton",
     "year": 1933,
-    "make": "Napier",
+    "make": "napier",
     "category": "vintage racers",
     "price": 1500000,
     "sources": [
@@ -11549,7 +11549,7 @@
     "img": "images/cars/side/fh5_car_373.jpg?v=1",
     "name": "Fairlady Z 432",
     "year": 1969,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "classic sports cars",
     "price": 150000,
     "sources": [
@@ -11579,7 +11579,7 @@
     "img": "images/cars/side/fh5_car_374.jpg?v=1",
     "name": "Skyline 2000GT-R",
     "year": 1971,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "classic sports cars",
     "price": 60000,
     "sources": [
@@ -11610,7 +11610,7 @@
     "img": "images/cars/side/fh5_car_375.jpg?v=1",
     "name": "Skyline H/T 2000GT-R",
     "year": 1973,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "classic sports cars",
     "price": 170000,
     "sources": [
@@ -11641,7 +11641,7 @@
     "img": "images/cars/side/fh5_car_376.jpg?v=1",
     "name": "Skyline GTS-R (HR31)",
     "year": 1987,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 100000,
     "sources": [
@@ -11673,7 +11673,7 @@
     "img": "images/cars/side/fh5_car_377.jpg?v=1",
     "name": "Pulsar GTI-R",
     "year": 1990,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro rally",
     "price": 20000,
     "sources": [
@@ -11704,7 +11704,7 @@
     "img": "images/cars/side/fh5_car_378.jpg?v=1",
     "name": "Silvia CLUB K's",
     "year": 1992,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -11735,7 +11735,7 @@
     "img": "images/cars/side/fh5_car_379.jpg?v=1",
     "name": "Skyline GT-R V-Spec",
     "year": 1993,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 85000,
     "sources": [
@@ -11767,7 +11767,7 @@
     "img": "images/cars/side/fh5_car_380.jpg?v=1",
     "name": "240SX SE",
     "year": 1993,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -11798,7 +11798,7 @@
     "img": "images/cars/side/fh5_car_381.jpg?v=1",
     "name": "Fairlady Z Version S Twin Turbo",
     "year": 1994,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 20000,
     "sources": [
@@ -11829,7 +11829,7 @@
     "img": "images/cars/side/fh5_car_382.jpg?v=1",
     "name": "Silvia K's",
     "year": 1994,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -11861,7 +11861,7 @@
     "img": "images/cars/side/fh5_car_383.jpg?v=1",
     "name": "NISMO GT-R LM",
     "year": 1995,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 1100000,
     "sources": [
@@ -11892,7 +11892,7 @@
     "img": "images/cars/side/fh5_car_384.jpg?v=1",
     "name": "Skyline GT-R V-Spec",
     "year": 1997,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 37000,
     "sources": [
@@ -11923,7 +11923,7 @@
     "img": "images/cars/side/fh5_car_385.jpg?v=1",
     "name": "R390 (GT1)",
     "year": 1998,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro supercars",
     "price": 1250000,
     "sources": [
@@ -11954,7 +11954,7 @@
     "img": "images/cars/side/fh5_car_386.jpg?v=1",
     "name": "Silvia K's Aero",
     "year": 1998,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 25000,
     "sources": [
@@ -11985,7 +11985,7 @@
     "img": "images/cars/side/fh5_car_387.jpg?v=1",
     "name": "Silvia Spec-R",
     "year": 2000,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 35000,
     "sources": [
@@ -12016,7 +12016,7 @@
     "img": "images/cars/side/fh5_car_388.jpg?v=1",
     "name": "Skyline GT-R V-Spec II",
     "year": 2002,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 63000,
     "sources": [
@@ -12047,7 +12047,7 @@
     "img": "images/cars/side/fh5_car_389.jpg?v=1",
     "name": "Fairlady Z",
     "year": 2003,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "retro sports cars",
     "price": 35000,
     "sources": [
@@ -12079,7 +12079,7 @@
     "img": "images/cars/side/fh5_car_390.jpg?v=1",
     "name": "Pickup #23 Rally Raid",
     "year": 2004,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -12110,7 +12110,7 @@
     "img": "images/cars/side/fh5_car_391.jpg?v=1",
     "name": "370Z",
     "year": 2010,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "modern sports cars",
     "price": 40000,
     "sources": [
@@ -12141,7 +12141,7 @@
     "img": "images/cars/side/fh5_car_392.jpg?v=1",
     "name": "GT-R Black Edition (R35)",
     "year": 2012,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "modern supercars",
     "price": 105000,
     "sources": [
@@ -12173,7 +12173,7 @@
     "img": "images/cars/side/fh5_car_393.jpg?v=1",
     "name": "Titan Warrior Concept",
     "year": 2016,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "pick-up & 4x4's",
     "price": 50000,
     "sources": [
@@ -12204,7 +12204,7 @@
     "img": "images/cars/side/fh5_car_394.jpg?v=1",
     "name": "GT-R (R35)",
     "year": 2017,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "modern supercars",
     "price": 132000,
     "sources": [
@@ -12235,7 +12235,7 @@
     "img": "images/cars/side/fh5_car_395.jpg?v=1",
     "name": "Manta 400",
     "year": 1984,
-    "make": "Opel",
+    "make": "opel",
     "category": "rally monsters",
     "price": 100000,
     "sources": [
@@ -12266,7 +12266,7 @@
     "img": "images/cars/side/fh5_car_396.jpg?v=1",
     "name": "Zonda Cinque Roadster",
     "year": 2009,
-    "make": "Pagani",
+    "make": "pagani",
     "category": "hypercars",
     "price": 2100000,
     "sources": [
@@ -12297,7 +12297,7 @@
     "img": "images/cars/side/fh5_car_397.jpg?v=1",
     "name": "Zonda R",
     "year": 2010,
-    "make": "Pagani",
+    "make": "pagani",
     "category": "extreme track toys",
     "price": 1800000,
     "sources": [
@@ -12328,7 +12328,7 @@
     "img": "images/cars/side/fh5_car_398.jpg?v=1",
     "name": "Huayra BC",
     "year": 2016,
-    "make": "Pagani",
+    "make": "pagani",
     "category": "hypercars",
     "price": 2700000,
     "sources": [
@@ -12361,7 +12361,7 @@
     "img": "images/cars/side/fh5_car_399.jpg?v=1",
     "name": "The Cholla",
     "year": 2011,
-    "make": "Penhall",
+    "make": "penhall",
     "category": "unlimited buggies",
     "price": 100000,
     "sources": [
@@ -12392,7 +12392,7 @@
     "img": "images/cars/side/fh5_car_400.jpg?v=1",
     "name": "205 Turbo 16",
     "year": 1984,
-    "make": "Peugeot",
+    "make": "peugeot",
     "category": "retro rally",
     "price": 200000,
     "sources": [
@@ -12423,7 +12423,7 @@
     "img": "images/cars/side/fh5_car_401.jpg?v=1",
     "name": "205 Rallye",
     "year": 1991,
-    "make": "Peugeot",
+    "make": "peugeot",
     "category": "retro hot hatch",
     "price": 20000,
     "sources": [
@@ -12454,7 +12454,7 @@
     "img": "images/cars/side/fh5_car_402.jpg?v=1",
     "name": "207 Super 2000",
     "year": 2007,
-    "make": "Peugeot",
+    "make": "peugeot",
     "category": "rally monsters",
     "price": 150000,
     "sources": [
@@ -12486,7 +12486,7 @@
     "img": "images/cars/side/fh5_car_403.jpg?v=1",
     "name": "Cuda 426 Hemi",
     "year": 1971,
-    "make": "Plymouth",
+    "make": "plymouth",
     "category": "classic muscle",
     "price": 160000,
     "sources": [
@@ -12517,7 +12517,7 @@
     "img": "images/cars/side/fh5_car_404.jpg?v=1",
     "name": "RZR XP 1000 EPS",
     "year": 2015,
-    "make": "Polaris",
+    "make": "polaris",
     "category": "utv's",
     "price": 25000,
     "sources": [
@@ -12548,7 +12548,7 @@
     "img": "images/cars/side/fh5_car_405.jpg?v=1",
     "name": "GTO",
     "year": 1965,
-    "make": "Pontiac",
+    "make": "pontiac",
     "category": "classic muscle",
     "price": 48000,
     "sources": [
@@ -12579,7 +12579,7 @@
     "img": "images/cars/side/fh5_car_406.jpg?v=1",
     "name": "Firebird Trans Am",
     "year": 1977,
-    "make": "Pontiac",
+    "make": "pontiac",
     "category": "classic muscle",
     "price": 45000,
     "sources": [
@@ -12610,7 +12610,7 @@
     "img": "images/cars/side/fh5_car_407.jpg?v=1",
     "name": "Firebird Trans Am GTA",
     "year": 1987,
-    "make": "Pontiac",
+    "make": "pontiac",
     "category": "retro muscle",
     "price": 25000,
     "sources": [
@@ -12641,7 +12641,7 @@
     "img": "images/cars/side/fh5_car_408.jpg?v=1",
     "name": "356 A 1600 Super",
     "year": 1959,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "rare classics",
     "price": 240000,
     "sources": [
@@ -12673,7 +12673,7 @@
     "img": "images/cars/side/fh5_car_409.jpg?v=1",
     "name": "#3 917 LH",
     "year": 1970,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "classic racers",
     "price": 15000000,
     "sources": [
@@ -12704,7 +12704,7 @@
     "img": "images/cars/side/fh5_car_410.jpg?v=1",
     "name": "914/6",
     "year": 1970,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "classic sports cars",
     "price": 24000,
     "sources": [
@@ -12735,7 +12735,7 @@
     "img": "images/cars/side/fh5_car_411.jpg?v=1",
     "name": "911 Turbo 3.3",
     "year": 1982,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro supercars",
     "price": 150000,
     "sources": [
@@ -12766,7 +12766,7 @@
     "img": "images/cars/side/fh5_car_412.jpg?v=1",
     "name": "#185 959 Prodrive Rally Raid",
     "year": 1985,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "rally monsters",
     "price": 1500000,
     "sources": [
@@ -12799,7 +12799,7 @@
     "img": "images/cars/side/fh5_car_413.jpg?v=1",
     "name": "959",
     "year": 1987,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro supercars",
     "price": 2000000,
     "sources": [
@@ -12830,7 +12830,7 @@
     "img": "images/cars/side/fh5_car_414.jpg?v=1",
     "name": "944 Turbo",
     "year": 1989,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro sports cars",
     "price": 35000,
     "sources": [
@@ -12861,7 +12861,7 @@
     "img": "images/cars/side/fh5_car_415.jpg?v=1",
     "name": "#65 Rothsport Racing 911 'Desert Flyer'",
     "year": 1989,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -12892,7 +12892,7 @@
     "img": "images/cars/side/fh5_car_416.jpg?v=1",
     "name": "968 Turbo S",
     "year": 1993,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro sports cars",
     "price": 140000,
     "sources": [
@@ -12923,7 +12923,7 @@
     "img": "images/cars/side/fh5_car_417.jpg?v=1",
     "name": "911 GT2",
     "year": 1995,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro supercars",
     "price": 550000,
     "sources": [
@@ -12954,7 +12954,7 @@
     "img": "images/cars/side/fh5_car_418.jpg?v=1",
     "name": "911 GT1 Strassenversion",
     "year": 1998,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro supercars",
     "price": 2500000,
     "sources": [
@@ -12987,7 +12987,7 @@
     "img": "images/cars/side/fh5_car_419.jpg?v=1",
     "name": "Carrera GT",
     "year": 2003,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro supercars",
     "price": 1000000,
     "sources": [
@@ -13018,7 +13018,7 @@
     "img": "images/cars/side/fh5_car_420.jpg?v=1",
     "name": "911 GT3",
     "year": 2004,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "retro supercars",
     "price": 65000,
     "sources": [
@@ -13049,7 +13049,7 @@
     "img": "images/cars/side/fh5_car_421.jpg?v=1",
     "name": "911 GT2 RS",
     "year": 2012,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "track toys",
     "price": 240000,
     "sources": [
@@ -13081,7 +13081,7 @@
     "img": "images/cars/side/fh5_car_422.jpg?v=1",
     "name": "911 Turbo S",
     "year": 2014,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern supercars",
     "price": 150000,
     "sources": [
@@ -13112,7 +13112,7 @@
     "img": "images/cars/side/fh5_car_423.jpg?v=1",
     "name": "918 Spyder",
     "year": 2014,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "hypercars",
     "price": 850000,
     "sources": [
@@ -13144,7 +13144,7 @@
     "img": "images/cars/side/fh5_car_424.jpg?v=1",
     "name": "Cayman GTS",
     "year": 2015,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern sports cars",
     "price": 80000,
     "sources": [
@@ -13175,7 +13175,7 @@
     "img": "images/cars/side/fh5_car_425.jpg?v=1",
     "name": "911 GT3 RS",
     "year": 2016,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "track toys",
     "price": 235000,
     "sources": [
@@ -13206,7 +13206,7 @@
     "img": "images/cars/side/fh5_car_426.jpg?v=1",
     "name": "Cayman GT4",
     "year": 2016,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "track toys",
     "price": 85000,
     "sources": [
@@ -13237,7 +13237,7 @@
     "img": "images/cars/side/fh5_car_427.jpg?v=1",
     "name": "Panamera Turbo",
     "year": 2017,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "super saloons",
     "price": 150000,
     "sources": [
@@ -13268,7 +13268,7 @@
     "img": "images/cars/side/fh5_car_428.jpg?v=1",
     "name": "718 Cayman GTS",
     "year": 2018,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern sports cars",
     "price": 90000,
     "sources": [
@@ -13299,7 +13299,7 @@
     "img": "images/cars/side/fh5_car_429.jpg?v=1",
     "name": "911 GT2 RS",
     "year": 2018,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "track toys",
     "price": 315000,
     "sources": [
@@ -13330,7 +13330,7 @@
     "img": "images/cars/side/fh5_car_430.jpg?v=1",
     "name": "Cayenne Turbo",
     "year": 2018,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "sports utility heroes",
     "price": 220000,
     "sources": [
@@ -13362,7 +13362,7 @@
     "img": "images/cars/side/fh5_car_431.jpg?v=1",
     "name": "Macan LPR Rally Raid",
     "year": 2018,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "offroad",
     "price": 250000,
     "sources": [
@@ -13395,7 +13395,7 @@
     "img": "images/cars/side/fh5_car_432.jpg?v=1",
     "name": "911 Carrera S",
     "year": 2019,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern sports cars",
     "price": 105000,
     "sources": [
@@ -13426,7 +13426,7 @@
     "img": "images/cars/side/fh5_car_433.jpg?v=1",
     "name": "911 GT3 RS",
     "year": 2019,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "track toys",
     "price": 255000,
     "sources": [
@@ -13457,7 +13457,7 @@
     "img": "images/cars/side/fh5_car_434.jpg?v=1",
     "name": "Macan Turbo",
     "year": 2019,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "sports utility heroes",
     "price": 135000,
     "sources": [
@@ -13489,7 +13489,7 @@
     "img": "images/cars/side/fh5_car_435.jpg?v=1",
     "name": "Taycan Turbo S",
     "year": 2020,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "super saloons",
     "price": 185000,
     "sources": [
@@ -13521,7 +13521,7 @@
     "img": "images/cars/side/fh5_car_436.jpg?v=1",
     "name": "Taycan Turbo S \"Welcome Pack\"",
     "year": 2020,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "super saloons",
     "price": 185000,
     "sources": [
@@ -13551,7 +13551,7 @@
     "img": "images/cars/side/fh5_car_437.jpg?v=1",
     "name": "RXC Turbo",
     "year": 2015,
-    "make": "Radical",
+    "make": "radical",
     "category": "extreme track toys",
     "price": 330000,
     "sources": [
@@ -13584,7 +13584,7 @@
     "img": "images/cars/side/fh5_car_438.jpg?v=1",
     "name": "2500 Power Wagon",
     "year": 2017,
-    "make": "RAM",
+    "make": "ram",
     "category": "pick-up & 4x4's",
     "price": 47000,
     "sources": [
@@ -13615,7 +13615,7 @@
     "img": "images/cars/side/fh5_car_439.jpg?v=1",
     "name": "Supervan III",
     "year": 1972,
-    "make": "Reliant",
+    "make": "reliant",
     "category": "cult cars",
     "price": 35000,
     "sources": [
@@ -13646,7 +13646,7 @@
     "img": "images/cars/side/fh5_car_440.jpg?v=2",
     "name": "5 Turbo",
     "year": 1980,
-    "make": "Renault",
+    "make": "renault",
     "category": "retro rally",
     "price": 120000,
     "sources": [
@@ -13678,7 +13678,7 @@
     "img": "images/cars/side/fh5_car_441.jpg?v=1",
     "name": "Clio Williams",
     "year": 1993,
-    "make": "Renault",
+    "make": "renault",
     "category": "retro hot hatch",
     "price": 30000,
     "sources": [
@@ -13709,7 +13709,7 @@
     "img": "images/cars/side/fh5_car_442.jpg?v=1",
     "name": "M\u00e9gane R26.R",
     "year": 2008,
-    "make": "Renault",
+    "make": "renault",
     "category": "super hot hatch",
     "price": 28000,
     "sources": [
@@ -13740,7 +13740,7 @@
     "img": "images/cars/side/fh5_car_443.jpg?v=1",
     "name": "Clio R.S. 200 EDC",
     "year": 2013,
-    "make": "Renault",
+    "make": "renault",
     "category": "hot hatch",
     "price": 29000,
     "sources": [
@@ -13771,7 +13771,7 @@
     "img": "images/cars/side/fh5_car_444.jpg?v=1",
     "name": "MEGANE R.S.",
     "year": 2018,
-    "make": "Renault",
+    "make": "renault",
     "category": "super hot hatch",
     "price": 37000,
     "sources": [
@@ -13803,7 +13803,7 @@
     "img": "images/cars/side/fh5_car_445.jpg?v=1",
     "name": "Concept Two",
     "year": 2019,
-    "make": "Rimac",
+    "make": "rimac",
     "category": "hypercars",
     "price": 2000000,
     "sources": [
@@ -13832,9 +13832,9 @@
   {
     "id": 446,
     "img": "images/cars/side/fh5_car_446.jpg?v=1",
-    "name": "Anderson #37 Polaris RZR-Rockstar Energy Pro 2 Truck",
+    "name": "#37 Polaris RZR-Rockstar Energy Pro 2 Truck",
     "year": 2016,
-    "make": "RJ",
+    "make": "rj anderson",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -13865,7 +13865,7 @@
     "img": "images/cars/side/fh5_car_447.jpg?v=1",
     "name": "S7",
     "year": 2004,
-    "make": "Saleen",
+    "make": "saleen",
     "category": "retro supercars",
     "price": 388000,
     "sources": [
@@ -13898,7 +13898,7 @@
     "img": "images/cars/side/fh5_car_448.jpg?v=1",
     "name": "S1",
     "year": 2018,
-    "make": "Saleen",
+    "make": "saleen",
     "category": "modern supercars",
     "price": 200000,
     "sources": [
@@ -13929,7 +13929,7 @@
     "img": "images/cars/side/fh5_car_449.jpg?v=1",
     "name": "Cobra 427 S/C",
     "year": 1965,
-    "make": "Shelby",
+    "make": "shelby",
     "category": "rare classics",
     "price": 2100000,
     "sources": [
@@ -13960,7 +13960,7 @@
     "img": "images/cars/side/fh5_car_450.jpg?v=1",
     "name": "Cobra Daytona Coupe",
     "year": 1965,
-    "make": "Shelby",
+    "make": "shelby",
     "category": "classic racers",
     "price": 30000000,
     "sources": [
@@ -13990,9 +13990,9 @@
   {
     "id": 451,
     "img": "images/cars/side/fh5_car_451.jpg?v=1",
-    "name": "Cars RX3",
+    "name": "RX3",
     "year": 2021,
-    "make": "SIERRA",
+    "make": "sierra cars",
     "category": "utv's",
     "price": 45000,
     "sources": [
@@ -14023,7 +14023,7 @@
     "img": "images/cars/side/fh5_car_452.jpg?v=1",
     "name": "Impreza 22B-STi Version",
     "year": 1998,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "retro rally",
     "price": 110000,
     "sources": [
@@ -14056,7 +14056,7 @@
     "img": "images/cars/side/fh5_car_453.jpg?v=1",
     "name": "IMPREZA WRX STi",
     "year": 2004,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "modern rally",
     "price": 28000,
     "sources": [
@@ -14087,7 +14087,7 @@
     "img": "images/cars/side/fh5_car_454.jpg?v=1",
     "name": "IMPREZA WRX STI",
     "year": 2005,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "modern rally",
     "price": 51000,
     "sources": [
@@ -14118,7 +14118,7 @@
     "img": "images/cars/side/fh5_car_455.jpg?v=1",
     "name": "IMPREZA WRX STI",
     "year": 2008,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "modern rally",
     "price": 31000,
     "sources": [
@@ -14149,7 +14149,7 @@
     "img": "images/cars/side/fh5_car_456.jpg?v=1",
     "name": "WRX STI",
     "year": 2011,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "modern rally",
     "price": 33000,
     "sources": [
@@ -14180,7 +14180,7 @@
     "img": "images/cars/side/fh5_car_457.jpg?v=1",
     "name": "BRZ",
     "year": 2013,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "modern sports cars",
     "price": 32000,
     "sources": [
@@ -14211,7 +14211,7 @@
     "img": "images/cars/side/fh5_car_458.jpg?v=1",
     "name": "WRX STI",
     "year": 2015,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "modern rally",
     "price": 42000,
     "sources": [
@@ -14242,7 +14242,7 @@
     "img": "images/cars/side/fh5_car_459.jpg?v=1",
     "name": "2000GT",
     "year": 1969,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "rare classics",
     "price": 750000,
     "sources": [
@@ -14273,7 +14273,7 @@
     "img": "images/cars/side/fh5_car_460.jpg?v=1",
     "name": "Celica GT",
     "year": 1974,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "classic sports cars",
     "price": 20000,
     "sources": [
@@ -14304,7 +14304,7 @@
     "img": "images/cars/side/fh5_car_461.jpg?v=1",
     "name": "FJ40",
     "year": 1979,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "pick-up & 4x4's",
     "price": 55000,
     "sources": [
@@ -14335,7 +14335,7 @@
     "img": "images/cars/side/fh5_car_462.jpg?v=1",
     "name": "Sprinter Trueno GT Apex",
     "year": 1985,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro sports cars",
     "price": 20000,
     "sources": [
@@ -14368,7 +14368,7 @@
     "img": "images/cars/side/fh5_car_463.jpg?v=1",
     "name": "MR2 SC",
     "year": 1989,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro sports cars",
     "price": 20000,
     "sources": [
@@ -14399,7 +14399,7 @@
     "img": "images/cars/side/fh5_car_464.jpg?v=1",
     "name": "Supra 2.0 GT",
     "year": 1992,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro sports cars",
     "price": 20000,
     "sources": [
@@ -14430,7 +14430,7 @@
     "img": "images/cars/side/fh5_car_465.jpg?v=1",
     "name": "Celica GT-Four RC ST185",
     "year": 1992,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro rally",
     "price": 25000,
     "sources": [
@@ -14462,7 +14462,7 @@
     "img": "images/cars/side/fh5_car_466.jpg?v=1",
     "name": "Celica GT-Four ST205",
     "year": 1994,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro rally",
     "price": 20000,
     "sources": [
@@ -14493,7 +14493,7 @@
     "img": "images/cars/side/fh5_car_467.jpg?v=1",
     "name": "Supra RZ",
     "year": 1998,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro sports cars",
     "price": 38000,
     "sources": [
@@ -14524,7 +14524,7 @@
     "img": "images/cars/side/fh5_car_468.jpg?v=1",
     "name": "Supra RZ \"Welcome Pack\"",
     "year": 1998,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro sports cars",
     "price": 38000,
     "sources": [
@@ -14554,7 +14554,7 @@
     "img": "images/cars/side/fh5_car_469.jpg?v=1",
     "name": "86",
     "year": 2013,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "modern sports cars",
     "price": 28800,
     "sources": [
@@ -14585,7 +14585,7 @@
     "img": "images/cars/side/fh5_car_470.jpg?v=1",
     "name": "GR Supra",
     "year": 2020,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "modern sports cars",
     "price": 55000,
     "sources": [
@@ -14616,7 +14616,7 @@
     "img": "images/cars/side/fh5_car_471.jpg?v=1",
     "name": "Cerbera Speed 12",
     "year": 1998,
-    "make": "TVR",
+    "make": "tvr",
     "category": "retro supercars",
     "price": 500000,
     "sources": [
@@ -14648,7 +14648,7 @@
     "img": "images/cars/side/fh5_car_472.jpg?v=1",
     "name": "Sagaris",
     "year": 2005,
-    "make": "TVR",
+    "make": "tvr",
     "category": "retro sports cars",
     "price": 86000,
     "sources": [
@@ -14680,7 +14680,7 @@
     "img": "images/cars/side/fh5_car_473.jpg?v=1",
     "name": "Griffith",
     "year": 2018,
-    "make": "TVR",
+    "make": "tvr",
     "category": "modern sports cars",
     "price": 105000,
     "sources": [
@@ -14711,7 +14711,7 @@
     "img": "images/cars/side/fh5_car_474.jpg?v=1",
     "name": "Evolution Coupe 1020",
     "year": 2015,
-    "make": "Ultima",
+    "make": "ultima",
     "category": "extreme track toys",
     "price": 300000,
     "sources": [
@@ -14742,7 +14742,7 @@
     "img": "images/cars/side/fh5_car_475.jpg?v=1",
     "name": "Monaro VXR",
     "year": 2005,
-    "make": "Vauxhall",
+    "make": "vauxhall",
     "category": "modern muscle",
     "price": 25000,
     "sources": [
@@ -14773,7 +14773,7 @@
     "img": "images/cars/side/fh5_car_476.jpg?v=1",
     "name": "Corsa VXR",
     "year": 2016,
-    "make": "Vauxhall",
+    "make": "vauxhall",
     "category": "hot hatch",
     "price": 28000,
     "sources": [
@@ -14804,7 +14804,7 @@
     "img": "images/cars/side/fh5_car_477.jpg?v=1",
     "name": "Type 2 De Luxe",
     "year": 1963,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "cult cars",
     "price": 40000,
     "sources": [
@@ -14834,7 +14834,7 @@
     "img": "images/cars/side/fh5_car_478.jpg?v=1",
     "name": "Beetle",
     "year": 1963,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "cult cars",
     "price": 20000,
     "sources": [
@@ -14864,7 +14864,7 @@
     "img": "images/cars/side/fh5_car_479.jpg?v=1",
     "name": "Class 5/1600 Baja Bug",
     "year": 1969,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "buggies",
     "price": 60000,
     "sources": [
@@ -14895,7 +14895,7 @@
     "img": "images/cars/side/fh5_car_480.jpg?v=1",
     "name": "#1107 Desert Dingo Racing Stock Bug",
     "year": 1970,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "buggies",
     "price": 25000,
     "sources": [
@@ -14926,7 +14926,7 @@
     "img": "images/cars/side/fh5_car_481.jpg?v=1",
     "name": "Scirocco S",
     "year": 1981,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "retro hot hatch",
     "price": 20000,
     "sources": [
@@ -14957,7 +14957,7 @@
     "img": "images/cars/side/fh5_car_482.jpg?v=1",
     "name": "Golf GTI",
     "year": 1983,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "retro hot hatch",
     "price": 20000,
     "sources": [
@@ -14988,7 +14988,7 @@
     "img": "images/cars/side/fh5_car_483.jpg?v=1",
     "name": "Golf Gti 16v Mk2",
     "year": 1992,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "retro hot hatch",
     "price": 20000,
     "sources": [
@@ -15019,7 +15019,7 @@
     "img": "images/cars/side/fh5_car_484.jpg?v=1",
     "name": "Corrado VR6",
     "year": 1995,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "retro hot hatch",
     "price": 20000,
     "sources": [
@@ -15050,7 +15050,7 @@
     "img": "images/cars/side/fh5_car_485.jpg?v=1",
     "name": "GTI VR6 Mk3",
     "year": 1998,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "retro hot hatch",
     "price": 25000,
     "sources": [
@@ -15081,7 +15081,7 @@
     "img": "images/cars/side/fh5_car_486.jpg?v=1",
     "name": "Golf R32",
     "year": 2003,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "hot hatch",
     "price": 20000,
     "sources": [
@@ -15112,7 +15112,7 @@
     "img": "images/cars/side/fh5_car_487.jpg?v=1",
     "name": "Golf R",
     "year": 2010,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "super hot hatch",
     "price": 64000,
     "sources": [
@@ -15144,7 +15144,7 @@
     "img": "images/cars/side/fh5_car_488.jpg?v=1",
     "name": "Scirocco R",
     "year": 2011,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "hot hatch",
     "price": 45000,
     "sources": [
@@ -15175,7 +15175,7 @@
     "img": "images/cars/side/fh5_car_489.jpg?v=1",
     "name": "Golf R",
     "year": 2014,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "super hot hatch",
     "price": 50000,
     "sources": [
@@ -15206,7 +15206,7 @@
     "img": "images/cars/side/fh5_car_490.jpg?v=1",
     "name": "#34 Volkswagen Andretti Rallycross Beetle",
     "year": 2017,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -15237,7 +15237,7 @@
     "img": "images/cars/side/fh5_car_491.jpg?v=1",
     "name": "242 Turbo Evolution",
     "year": 1983,
-    "make": "Volvo",
+    "make": "volvo",
     "category": "classic rally",
     "price": 45000,
     "sources": [
@@ -15268,7 +15268,7 @@
     "img": "images/cars/side/fh5_car_492.jpg?v=1",
     "name": "850 R",
     "year": 1997,
-    "make": "Volvo",
+    "make": "volvo",
     "category": "retro saloons",
     "price": 25000,
     "sources": [
@@ -15299,7 +15299,7 @@
     "img": "images/cars/side/fh5_car_493.jpg?v=1",
     "name": "V60 Polestar",
     "year": 2015,
-    "make": "Volvo",
+    "make": "volvo",
     "category": "super saloons",
     "price": 62000,
     "sources": [
@@ -15331,7 +15331,7 @@
     "img": "images/cars/side/fh5_car_494.jpg?v=1",
     "name": "05RR",
     "year": 2017,
-    "make": "VUHL",
+    "make": "vuhl",
     "category": "track toys",
     "price": 100000,
     "sources": [
@@ -15362,7 +15362,7 @@
     "img": "images/cars/side/fh5_car_495.jpg?v=1",
     "name": "MB Jeep",
     "year": 1945,
-    "make": "WILLYS",
+    "make": "willys",
     "category": "pick-up & 4x4's",
     "price": 40000,
     "sources": [
@@ -15393,7 +15393,7 @@
     "img": "images/cars/side/fh5_car_496.jpg?v=1",
     "name": "TSR-S",
     "year": 2019,
-    "make": "Zenvo",
+    "make": "zenvo",
     "category": "hypercars",
     "price": 1200000,
     "sources": [
@@ -15424,7 +15424,7 @@
     "img": "images/cars/side/fh5_car_497.jpg?v=1",
     "name": "Corvette",
     "year": 1953,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic sports cars",
     "price": 210000,
     "sources": [
@@ -15454,7 +15454,7 @@
     "img": "images/cars/side/fh5_car_498.jpg?v=1",
     "name": "Corvette Forza Edition",
     "year": 1953,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "classic racers",
     "price": 500000,
     "sources": [
@@ -15487,7 +15487,7 @@
     "img": "images/cars/side/fh5_car_499.jpg?v=1",
     "name": "Exocet Off-Road Forza Edition",
     "year": 2018,
-    "make": "Exomotive",
+    "make": "exomotive",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -15520,7 +15520,7 @@
     "img": "images/cars/side/fh5_car_500.jpg?v=1",
     "name": "Sesto Elemento Forza Edition",
     "year": 2011,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "extreme track toys",
     "price": 2750000,
     "sources": [
@@ -15553,7 +15553,7 @@
     "img": "images/cars/side/fh5_car_501.jpg?v=1",
     "name": "Gran Turismo S Forza Edition",
     "year": 2010,
-    "make": "Maserati",
+    "make": "maserati",
     "category": "track toys",
     "price": 500000,
     "sources": [
@@ -15586,7 +15586,7 @@
     "img": "images/cars/side/fh5_car_502.jpg?v=1",
     "name": "AMG CLK GTR Forza Edition",
     "year": 1998,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "extreme track toys",
     "price": 2250000,
     "sources": [
@@ -15619,7 +15619,7 @@
     "img": "images/cars/side/fh5_car_503.jpg?v=1",
     "name": "#24 Tankpool24 Racing Truck Forza Edition",
     "year": 2015,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "unlimited offroad",
     "price": 750000,
     "sources": [
@@ -15652,7 +15652,7 @@
     "img": "images/cars/side/fh5_car_504.jpg?v=1",
     "name": "Manx Forza Edition",
     "year": 1971,
-    "make": "Meyers",
+    "make": "meyers",
     "category": "track toys",
     "price": 500000,
     "sources": [
@@ -15685,7 +15685,7 @@
     "img": "images/cars/side/fh5_car_505.jpg?v=1",
     "name": "Minor 1000 Forza Edition",
     "year": 1953,
-    "make": "Morris",
+    "make": "morris",
     "category": "track toys",
     "price": 500000,
     "sources": [
@@ -15718,7 +15718,7 @@
     "img": "images/cars/side/fh5_car_506.jpg?v=1",
     "name": "Fairlady Z Forza Edition",
     "year": 2003,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -15751,7 +15751,7 @@
     "img": "images/cars/side/fh5_car_507.jpg?v=1",
     "name": "Huayra BC Forza Edition",
     "year": 2016,
-    "make": "Pagani",
+    "make": "pagani",
     "category": "extreme track toys",
     "price": 2700000,
     "sources": [
@@ -15784,7 +15784,7 @@
     "img": "images/cars/side/fh5_car_508.jpg?v=1",
     "name": "Firebird Trans Am GTA Forza Edition",
     "year": 1987,
-    "make": "Pontiac",
+    "make": "pontiac",
     "category": "track toys",
     "price": 500000,
     "sources": [
@@ -15817,7 +15817,7 @@
     "img": "images/cars/side/fh5_car_509.jpg?v=1",
     "name": "911 GT3 RS Forza Edition",
     "year": 2019,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "rally monsters",
     "price": 255000,
     "sources": [
@@ -15847,7 +15847,7 @@
     "img": "images/cars/side/fh5_car_510.jpg?v=1",
     "name": "Beetle Forza Edition",
     "year": 1963,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "track toys",
     "price": 500000,
     "sources": [
@@ -15877,7 +15877,7 @@
     "img": "images/cars/side/fh5_car_511.jpg?v=1",
     "name": "X5 M Forza Edition",
     "year": 2011,
-    "make": "BMW",
+    "make": "bmw",
     "category": "extreme track toys",
     "price": 500000,
     "sources": [
@@ -15907,7 +15907,7 @@
     "img": "images/cars/side/fh5_car_512.jpg?v=1",
     "name": "Charger R/T Forza Edition",
     "year": 1969,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "track toys",
     "price": 70000,
     "sources": [
@@ -15937,7 +15937,7 @@
     "img": "images/cars/side/fh5_car_513.jpg?v=1",
     "name": "Racing Puma Forza Edition",
     "year": 1999,
-    "make": "Ford",
+    "make": "ford",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -15967,7 +15967,7 @@
     "img": "images/cars/side/fh5_car_516.jpg?v=1",
     "name": "2002 TURBO",
     "year": 1973,
-    "make": "BMW",
+    "make": "bmw",
     "category": "classic sports cars",
     "price": 26000,
     "sources": [
@@ -15997,7 +15997,7 @@
     "img": "images/cars/side/fh5_car_517.jpg?v=1",
     "name": "250 GTO",
     "year": 1962,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "classic racers",
     "price": 50000000,
     "sources": [
@@ -16027,7 +16027,7 @@
     "img": "images/cars/side/fh5_car_518.jpg?v=1",
     "name": "Tachyon Speed",
     "year": 2019,
-    "make": "RAESR",
+    "make": "raesr",
     "category": "hypercars",
     "price": 1050000,
     "sources": [
@@ -16059,7 +16059,7 @@
     "img": "images/cars/side/fh5_car_519.jpg?v=1",
     "name": "ZeroUno",
     "year": 2018,
-    "make": "ItalDesign",
+    "make": "italdesign",
     "category": "hypercars",
     "price": 2400000,
     "sources": [
@@ -16091,7 +16091,7 @@
     "img": "images/cars/side/fh5_car_520.jpg?v=1",
     "name": "Minor 1000",
     "year": 1953,
-    "make": "Morris",
+    "make": "morris",
     "category": "cult cars",
     "price": 20000,
     "sources": [
@@ -16122,7 +16122,7 @@
     "img": "images/cars/side/fh5_car_521.jpg?v=1",
     "name": "DMC-12",
     "year": 1982,
-    "make": "DeLorean",
+    "make": "delorean",
     "category": "retro sports cars",
     "price": 15000,
     "sources": [
@@ -16154,7 +16154,7 @@
     "img": "images/cars/side/fh5_car_522.jpg?v=1",
     "name": "Dart Hemi Super Stock",
     "year": 1968,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "classic muscle",
     "price": 300000,
     "sources": [
@@ -16184,7 +16184,7 @@
     "img": "images/cars/side/fh5_car_523.jpg?v=1",
     "name": "F40 Competizionne",
     "year": 1989,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "extreme track toys",
     "price": 2000000,
     "sources": [
@@ -16214,7 +16214,7 @@
     "img": "images/cars/side/fh5_car_524.jpg?v=1",
     "name": "Civic CRX Mugen",
     "year": 1984,
-    "make": "Honda",
+    "make": "honda",
     "category": "retro hot hatch",
     "price": 40000,
     "sources": [
@@ -16246,7 +16246,7 @@
     "img": "images/cars/side/fh5_car_525.jpg?v=1",
     "name": "Viper GTS ACR",
     "year": 1999,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "retro muscle",
     "price": 75000,
     "sources": [
@@ -16276,7 +16276,7 @@
     "img": "images/cars/side/fh5_car_526.jpg?v=1",
     "name": "Jimmy",
     "year": 1970,
-    "make": "GMC",
+    "make": "gmc",
     "category": "pick-up & 4x4's",
     "price": 75000,
     "sources": [
@@ -16306,7 +16306,7 @@
     "img": "images/cars/side/fh5_car_527.jpg?v=1",
     "name": "#1 T100 Baja Truck",
     "year": 1993,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -16334,9 +16334,9 @@
   {
     "id": 528,
     "img": "images/cars/side/fh5_car_528.jpg?v=1",
-    "name": "Racing Toyota Gumout 2JZ CAMRY Stock Car",
+    "name": "Toyota Gumout 2JZ CAMRY Stock Car",
     "year": 2010,
-    "make": "Forsberg",
+    "make": "forsberg racing",
     "category": "track toys",
     "price": 400000,
     "sources": [
@@ -16364,9 +16364,9 @@
   {
     "id": 529,
     "img": "images/cars/side/fh5_car_529.jpg?v=1",
-    "name": "Racing Nissan \"Gold Leader\" Datsun 280Z",
+    "name": "Nissan \"Gold Leader\" Datsun 280Z",
     "year": 1975,
-    "make": "Forsberg",
+    "make": "forsberg racing",
     "category": "retro sports cars",
     "price": 100000,
     "sources": [
@@ -16396,7 +16396,7 @@
     "img": "images/cars/side/fh5_car_530.jpg?v=1",
     "name": "911 Carrera RS",
     "year": 1973,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "rare classics",
     "price": 350000,
     "sources": [
@@ -16426,7 +16426,7 @@
     "img": "images/cars/side/fh5_car_531.jpg?v=1",
     "name": "4L Export",
     "year": 1968,
-    "make": "Renault",
+    "make": "renault",
     "category": "cult cars",
     "price": 20000,
     "sources": [
@@ -16454,9 +16454,9 @@
   {
     "id": 532,
     "img": "images/cars/side/fh5_car_532.jpg?v=1",
-    "name": "Drift #357 Chevrolet Corvette Z06",
+    "name": "#357 Chevrolet Corvette Z06",
     "year": 2017,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 150000,
     "sources": [
@@ -16485,9 +16485,9 @@
   {
     "id": 533,
     "img": "images/cars/side/fh5_car_533.jpg?v=1",
-    "name": "Drift #91 BMW M2",
+    "name": "#91 BMW M2",
     "year": 2020,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -16516,9 +16516,9 @@
   {
     "id": 534,
     "img": "images/cars/side/fh5_car_534.jpg?v=1",
-    "name": "Drift #151 Toyota GR Supra",
+    "name": "#151 Toyota GR Supra",
     "year": 2020,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -16547,9 +16547,9 @@
   {
     "id": 535,
     "img": "images/cars/side/fh5_car_535.jpg?v=1",
-    "name": "Drift #411 Toyota Corolla Hatchback",
+    "name": "#411 Toyota Corolla Hatchback",
     "year": 2019,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -16578,9 +16578,9 @@
   {
     "id": 536,
     "img": "images/cars/side/fh5_car_536.jpg?v=1",
-    "name": "Drift #34 Toyota Supra MKIV",
+    "name": "#34 Toyota Supra MKIV",
     "year": 1995,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -16609,9 +16609,9 @@
   {
     "id": 537,
     "img": "images/cars/side/fh5_car_537.jpg?v=1",
-    "name": "Drift #99 Mazda RX-8",
+    "name": "#99 Mazda RX-8",
     "year": 2009,
-    "make": "Formula",
+    "make": "formula drift",
     "category": "drift cars",
     "price": 300000,
     "sources": [
@@ -16642,7 +16642,7 @@
     "img": "images/cars/side/fh5_car_538.jpg?v=1",
     "name": "Civic Type R",
     "year": 2016,
-    "make": "Honda",
+    "make": "honda",
     "category": "super hot hatch",
     "price": 38000,
     "sources": [
@@ -16672,7 +16672,7 @@
     "img": "images/cars/side/fh5_car_539.jpg?v=1",
     "name": "STI 209",
     "year": 2019,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "modern rally",
     "price": 70000,
     "sources": [
@@ -16702,7 +16702,7 @@
     "img": "images/cars/side/fh5_car_540.jpg?v=1",
     "name": "8 Gordini",
     "year": 1967,
-    "make": "Renault",
+    "make": "renault",
     "category": "classic rally",
     "price": 65000,
     "sources": [
@@ -16732,7 +16732,7 @@
     "img": "images/cars/side/fh5_car_541.jpg?v=1",
     "name": "Cyclone Spoiler",
     "year": 1970,
-    "make": "Mercury",
+    "make": "mercury",
     "category": "classic muscle",
     "price": 35000,
     "sources": [
@@ -16762,7 +16762,7 @@
     "img": "images/cars/side/fh5_car_542.jpg?v=1",
     "name": "J50",
     "year": 2017,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "modern supercars",
     "price": 2500000,
     "sources": [
@@ -16792,7 +16792,7 @@
     "img": "images/cars/side/fh5_car_543.jpg?v=1",
     "name": "Monza SP2",
     "year": 2019,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "super gt",
     "price": 2000000,
     "sources": [
@@ -16822,7 +16822,7 @@
     "img": "images/cars/side/fh5_car_544.jpg?v=1",
     "name": "Espada 400 GT",
     "year": 1973,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "retro supercars",
     "price": 110000,
     "sources": [
@@ -16852,7 +16852,7 @@
     "img": "images/cars/side/fh5_car_545.jpg?v=1",
     "name": "Hurac\u00e1n EVO",
     "year": 2020,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "modern supercars",
     "price": 340000,
     "sources": [
@@ -16882,7 +16882,7 @@
     "img": "images/cars/side/fh5_car_546.jpg?v=1",
     "name": "XJ13",
     "year": 1966,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "classic racers",
     "price": 18000000,
     "sources": [
@@ -16912,7 +16912,7 @@
     "img": "images/cars/side/fh5_car_547.jpg?v=1",
     "name": "XJ220S TWR",
     "year": 1993,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "retro supercars",
     "price": 400000,
     "sources": [
@@ -16942,7 +16942,7 @@
     "img": "images/cars/side/fh5_car_548.jpg?v=1",
     "name": "FXX-K Evo",
     "year": 2018,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "extreme track toys",
     "price": 3000000,
     "sources": [
@@ -16972,7 +16972,7 @@
     "img": "images/cars/side/fh5_car_549.jpg?v=1",
     "name": "TT RS",
     "year": 2018,
-    "make": "Audi",
+    "make": "audi",
     "category": "modern sports cars",
     "price": 75000,
     "sources": [
@@ -17002,7 +17002,7 @@
     "img": "images/cars/side/fh5_car_550.jpg?v=2",
     "name": "Aventador SVJ",
     "year": 2018,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "hypercars",
     "price": 500000,
     "sources": [
@@ -17034,7 +17034,7 @@
     "img": "images/cars/side/fh5_car_551.jpg?v=1",
     "name": "599 GTO",
     "year": 2010,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "super gt",
     "price": 350000,
     "sources": [
@@ -17066,7 +17066,7 @@
     "img": "images/cars/side/fh5_car_552.jpg?v=1",
     "name": "Aventador J",
     "year": 2012,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "hypercars",
     "price": 2700000,
     "sources": [
@@ -17098,7 +17098,7 @@
     "img": "images/cars/side/fh5_car_553.jpg?v=1",
     "name": "Gallardo LP 570-4 Spyder Performante",
     "year": 2012,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "modern supercars",
     "price": 280000,
     "sources": [
@@ -17130,7 +17130,7 @@
     "img": "images/cars/side/fh5_car_554.jpg?v=1",
     "name": "Trident",
     "year": 1965,
-    "make": "Peel",
+    "make": "peel",
     "category": "cult classics",
     "price": 250000,
     "sources": [
@@ -17162,7 +17162,7 @@
     "img": "images/cars/side/fh5_car_555.jpg?v=1",
     "name": "P50",
     "year": 1962,
-    "make": "Peel",
+    "make": "peel",
     "category": "cult classics",
     "price": 250000,
     "sources": [
@@ -17194,7 +17194,7 @@
     "img": "images/cars/side/fh5_car_556.jpg?v=1",
     "name": "575M Maranello",
     "year": 2002,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 250000,
     "sources": [
@@ -17226,7 +17226,7 @@
     "img": "images/cars/side/fh5_car_557.jpg?v=1",
     "name": "8CTF",
     "year": 1939,
-    "make": "Maserati",
+    "make": "maserati",
     "category": "vintage racers",
     "price": 10000000,
     "sources": [
@@ -17258,7 +17258,7 @@
     "img": "images/cars/side/fh5_car_558.jpg?v=1",
     "name": "Celica Sport Specialty II",
     "year": 2003,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro sports cars",
     "price": 250000,
     "sources": [
@@ -17290,7 +17290,7 @@
     "img": "images/cars/side/fh5_car_559.jpg?v=1",
     "name": "D8 GTO",
     "year": 2013,
-    "make": "Donkervoort",
+    "make": "donkervoort",
     "category": "track toys",
     "price": 250000,
     "sources": [
@@ -17322,7 +17322,7 @@
     "img": "images/cars/side/fh5_car_560.jpg?v=1",
     "name": "Land Cruiser Arctic Trucks AT37",
     "year": 2016,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "pick-up & 4x4's",
     "price": 250000,
     "sources": [
@@ -17354,7 +17354,7 @@
     "img": "images/cars/side/fh5_car_561.jpg?v=1",
     "name": "Hilux Arctic Trucks AT38",
     "year": 2007,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "pick-up & 4x4's",
     "price": 250000,
     "sources": [
@@ -17386,7 +17386,7 @@
     "img": "images/cars/side/fh5_car_562.jpg?v=1",
     "name": "XKR-S",
     "year": 2015,
-    "make": "Jaguar",
+    "make": "jaguar",
     "category": "track toys",
     "price": 250000,
     "sources": [
@@ -17418,7 +17418,7 @@
     "img": "images/cars/side/fh5_car_563.jpg?v=1",
     "name": "Lotus Carlton",
     "year": 1990,
-    "make": "Vauxhall",
+    "make": "vauxhall",
     "category": "retro saloons",
     "price": 250000,
     "sources": [
@@ -17450,7 +17450,7 @@
     "img": "images/cars/side/fh5_car_564.jpg?v=1",
     "name": "Mustang Mach 1",
     "year": 1971,
-    "make": "Ford",
+    "make": "ford",
     "category": "classic muscle",
     "price": 250000,
     "sources": [],
@@ -17478,7 +17478,7 @@
     "img": "images/cars/side/fh5_car_565.jpg?v=1",
     "name": "ST1",
     "year": 2016,
-    "make": "Zenvo",
+    "make": "zenvo",
     "category": "hypercars",
     "price": 1000000,
     "sources": [],
@@ -17506,7 +17506,7 @@
     "img": "images/cars/side/fh5_car_566.jpg?v=3",
     "name": "GT 'OPI Edition'",
     "year": 2017,
-    "make": "Ford",
+    "make": "ford",
     "category": "modern supercars",
     "price": 400000,
     "sources": [
@@ -17536,7 +17536,7 @@
     "img": "images/cars/side/fh5_car_567.jpg?v=1",
     "name": "911 GT3 RS 4.0",
     "year": 2012,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "track toys",
     "price": 250000,
     "sources": [
@@ -17566,7 +17566,7 @@
     "img": "images/cars/side/fh5_car_568.jpg?v=1",
     "name": "Sunshine S",
     "year": 2013,
-    "make": "Wuling",
+    "make": "wuling",
     "category": "vans and utility",
     "price": 250000,
     "sources": [
@@ -17596,7 +17596,7 @@
     "img": "images/cars/side/fh5_car_569.jpg?v=1",
     "name": "MG3",
     "year": 2015,
-    "make": "MG",
+    "make": "mg",
     "category": "hot hatch",
     "price": 250000,
     "sources": [
@@ -17626,7 +17626,7 @@
     "img": "images/cars/side/fh5_car_570.jpg?v=1",
     "name": "EP9",
     "year": 2016,
-    "make": "NIO",
+    "make": "nio",
     "category": "hypercars",
     "price": 1500000,
     "sources": [
@@ -17656,7 +17656,7 @@
     "img": "images/cars/side/fh5_car_571.jpg?v=1",
     "name": "323 GT-R",
     "year": 1992,
-    "make": "Mazda",
+    "make": "mazda",
     "category": "retro rally",
     "price": 25000,
     "sources": [
@@ -17686,7 +17686,7 @@
     "img": "images/cars/side/fh5_car_572.jpg?v=1",
     "name": "XPower SV-R",
     "year": 2005,
-    "make": "MG",
+    "make": "mg",
     "category": "retro sports cars",
     "price": 50000,
     "sources": [
@@ -17716,7 +17716,7 @@
     "img": "images/cars/side/fh5_car_573.jpg?v=1",
     "name": "911 Sport Classic",
     "year": 2010,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern supercars",
     "price": 205000,
     "sources": [
@@ -17746,7 +17746,7 @@
     "img": "images/cars/side/fh5_car_574.jpg?v=1",
     "name": "Golf R",
     "year": 2021,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "super hot hatch",
     "price": 65000,
     "sources": [
@@ -17776,7 +17776,7 @@
     "img": "images/cars/side/fh5_car_575.jpg?v=1",
     "name": "X-Bow GT4",
     "year": 2018,
-    "make": "KTM",
+    "make": "ktm",
     "category": "extreme track toys",
     "price": 400000,
     "sources": [
@@ -17806,7 +17806,7 @@
     "img": "images/cars/side/fh5_car_576.jpg?v=2",
     "name": "4Runner TRD Pro",
     "year": 2019,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "pick-up & 4x4's",
     "price": 250000,
     "sources": [
@@ -17836,7 +17836,7 @@
     "img": "images/cars/side/fh5_car_577.jpg?v=1",
     "name": "M600",
     "year": 2010,
-    "make": "Noble",
+    "make": "noble",
     "category": "modern supercars",
     "price": 450000,
     "sources": [
@@ -17866,7 +17866,7 @@
     "img": "images/cars/side/fh5_car_578.jpg?v=1",
     "name": "GT-R NISMO (R35)",
     "year": 2020,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "track toys",
     "price": 250000,
     "sources": [
@@ -17896,7 +17896,7 @@
     "img": "images/cars/side/fh5_car_579.jpg?v=1",
     "name": "Cooper S Forza Edition",
     "year": 1965,
-    "make": "Mini",
+    "make": "mini",
     "category": "super hot hatch",
     "price": 500000,
     "sources": [
@@ -17926,7 +17926,7 @@
     "img": "images/cars/side/fh5_car_580.jpg?v=1",
     "name": "Mustang SVO",
     "year": 1986,
-    "make": "Ford",
+    "make": "ford",
     "category": "retro muscle",
     "price": 15000,
     "sources": [
@@ -17956,7 +17956,7 @@
     "img": "images/cars/side/fh5_car_581.jpg?v=1",
     "name": "Tundra TRD Pro",
     "year": 2020,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "pick-up & 4x4's",
     "price": 60000,
     "sources": [
@@ -17986,7 +17986,7 @@
     "img": "images/cars/side/fh5_car_582.jpg?v=1",
     "name": "M400",
     "year": 2006,
-    "make": "Noble",
+    "make": "noble",
     "category": "track toys",
     "price": 100000,
     "sources": [
@@ -18016,7 +18016,7 @@
     "img": "images/cars/side/fh5_car_583.jpg?v=1",
     "name": "#25 Corse Clienti 488 Challenge",
     "year": 2017,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "track toys",
     "price": 400000,
     "sources": [
@@ -18046,7 +18046,7 @@
     "img": "images/cars/side/fh5_car_584.jpg?v=1",
     "name": "650S Spider",
     "year": 2014,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "modern supercars",
     "price": 420000,
     "sources": [
@@ -18076,7 +18076,7 @@
     "img": "images/cars/side/fh5_car_585.jpg?v=1",
     "name": "Mustang Mach-E 1400",
     "year": 2021,
-    "make": "Ford",
+    "make": "ford",
     "category": "track toys",
     "price": 750000,
     "sources": [
@@ -18106,7 +18106,7 @@
     "img": "images/cars/side/fh5_car_586.jpg?v=1",
     "name": "KZ1R",
     "year": 2012,
-    "make": "Ascari",
+    "make": "ascari",
     "category": "modern supercars",
     "price": 250000,
     "sources": [
@@ -18136,7 +18136,7 @@
     "img": "images/cars/side/fh5_car_587.jpg?v=1",
     "name": "765LT Coupe",
     "year": 2021,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "track toys",
     "price": 400000,
     "sources": [
@@ -18166,7 +18166,7 @@
     "img": "images/cars/side/fh5_car_588.jpg?v=1",
     "name": "GT",
     "year": 2018,
-    "make": "ATS",
+    "make": "ats",
     "category": "modern supercars",
     "price": 850000,
     "sources": [
@@ -18196,7 +18196,7 @@
     "img": "images/cars/side/fh5_car_589.jpg?v=1",
     "name": "Toronado",
     "year": 1966,
-    "make": "Oldsmobile",
+    "make": "oldsmobile",
     "category": "classic muscle",
     "price": 35000,
     "sources": [
@@ -18226,7 +18226,7 @@
     "img": "images/cars/side/fh5_car_590.jpg?v=1",
     "name": "620R",
     "year": 2021,
-    "make": "McLaren",
+    "make": "mclaren",
     "category": "track toys",
     "price": 400000,
     "sources": [
@@ -18256,7 +18256,7 @@
     "img": "images/cars/side/fh5_car_591.jpg?v=1",
     "name": "John Cooper Works GP",
     "year": 2021,
-    "make": "Mini",
+    "make": "mini",
     "category": "super hot hatch",
     "price": 42000,
     "sources": [
@@ -18286,7 +18286,7 @@
     "img": "images/cars/side/fh5_car_592.jpg?v=1",
     "name": "911 Speedster",
     "year": 2019,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern sports cars",
     "price": 275000,
     "sources": [
@@ -18316,7 +18316,7 @@
     "img": "images/cars/side/fh5_car_593.jpg?v=1",
     "name": "SF90 Stradale",
     "year": 2020,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "hypercars",
     "price": 750000,
     "sources": [],
@@ -18344,7 +18344,7 @@
     "img": "images/cars/side/fh5_car_594.jpg?v=2",
     "name": "250 GT Berlinetta Lusso",
     "year": 1962,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "rare classics",
     "price": 2600000,
     "sources": [
@@ -18374,7 +18374,7 @@
     "img": "images/cars/side/fh5_car_595.jpg?v=2",
     "name": "California T",
     "year": 2014,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "super gt",
     "price": 250000,
     "sources": [
@@ -18404,7 +18404,7 @@
     "img": "images/cars/side/fh5_car_596.jpg?v=1",
     "name": "512 TR",
     "year": 1992,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "retro supercars",
     "price": 270000,
     "sources": [
@@ -18434,7 +18434,7 @@
     "img": "images/cars/side/fh5_car_597.jpg?v=2",
     "name": "F8 Tributo",
     "year": 2020,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "modern supercars",
     "price": 300000,
     "sources": [
@@ -18464,7 +18464,7 @@
     "img": "images/cars/side/fh5_car_598.jpg?v=1",
     "name": "F-150 SVT Lightning",
     "year": 2003,
-    "make": "Ford",
+    "make": "ford",
     "category": "vans and utility",
     "price": 20000,
     "sources": [
@@ -18492,9 +18492,9 @@
   {
     "id": 599,
     "img": "images/cars/side/fh5_car_599.jpg?v=2",
-    "name": "Racing Nissan 'SafariZ' 370Z Safari Rally Tribute",
+    "name": "Nissan 'SafariZ' 370Z Safari Rally Tribute",
     "year": 2014,
-    "make": "Forsberg",
+    "make": "forsberg racing",
     "category": "rally monsters",
     "price": 40000,
     "sources": [
@@ -18524,7 +18524,7 @@
     "img": "images/cars/side/fh5_car_600.jpg?v=2",
     "name": "Tacoma TRD Pro",
     "year": 2019,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "pick-up & 4x4's",
     "price": 50000,
     "sources": [
@@ -18554,7 +18554,7 @@
     "img": "images/cars/side/fh5_car_601.jpg?v=2",
     "name": "Magnum SRT-8",
     "year": 2008,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "modern muscle",
     "price": 35000,
     "sources": [
@@ -18584,7 +18584,7 @@
     "img": "images/cars/side/fh5_car_602.jpg?v=2",
     "name": "M8 Competition Coupe",
     "year": 2020,
-    "make": "BMW",
+    "make": "bmw",
     "category": "gt cars",
     "price": 175000,
     "sources": [
@@ -18614,7 +18614,7 @@
     "img": "images/cars/side/fh5_car_603.jpg?v=2",
     "name": "RS 3 Sedan",
     "year": 2020,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 60000,
     "sources": [
@@ -18644,7 +18644,7 @@
     "img": "images/cars/side/fh5_car_604.jpg?v=2",
     "name": "RS 5 Coupe",
     "year": 2018,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 95000,
     "sources": [
@@ -18674,7 +18674,7 @@
     "img": "images/cars/side/fh5_car_605.jpg?v=3",
     "name": "Pickup LX",
     "year": 1982,
-    "make": "Volkswagen",
+    "make": "volkswagen",
     "category": "vans and utility",
     "price": 20000,
     "sources": [
@@ -18704,7 +18704,7 @@
     "img": "images/cars/side/fh5_car_606.jpg?v=1",
     "name": "911 GT3",
     "year": 2021,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "track toys",
     "price": 250000,
     "sources": [
@@ -18734,7 +18734,7 @@
     "img": "images/cars/side/fh5_car_607.jpg?v=1",
     "name": "RS 4 Avant",
     "year": 2018,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -18764,7 +18764,7 @@
     "img": "images/cars/side/fh5_car_608.jpg?v=1",
     "name": "GT S",
     "year": 2015,
-    "make": "Mercedes-AMG",
+    "make": "mercedes-amg",
     "category": "super gt",
     "price": 250000,
     "sources": [
@@ -18792,9 +18792,9 @@
   {
     "id": 609,
     "img": "images/cars/side/fh5_car_609.jpg?v=1",
-    "name": "Wheels 2JetZ",
+    "name": "2JetZ",
     "year": 2018,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "rods and customs",
     "price": 250000,
     "sources": [
@@ -18827,7 +18827,7 @@
     "img": "images/cars/side/fh5_car_610.jpg?v=1",
     "name": "Barracuda Formula-S",
     "year": 1968,
-    "make": "Plymouth",
+    "make": "plymouth",
     "category": "classic muscle",
     "price": 250000,
     "sources": [
@@ -18859,7 +18859,7 @@
     "img": "images/cars/side/fh5_car_611.jpg?v=1",
     "name": "Coronet Super Bee",
     "year": 1970,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "classic muscle",
     "price": 250000,
     "sources": [
@@ -18889,9 +18889,9 @@
   {
     "id": 612,
     "img": "images/cars/side/fh5_car_612.jpg?v=1",
-    "name": "Wheels Nash Metropolitan Custom",
+    "name": "Nash Metropolitan Custom",
     "year": 1957,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "rods and customs",
     "price": 250000,
     "sources": [
@@ -18923,9 +18923,9 @@
   {
     "id": 613,
     "img": "images/cars/side/fh5_car_613.jpg?v=1",
-    "name": "Wheels Rip Rod",
+    "name": "Rip Rod",
     "year": 2012,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "unlimited buggies",
     "price": 300000,
     "sources": [
@@ -18956,9 +18956,9 @@
   {
     "id": 614,
     "img": "images/cars/side/fh5_car_614.jpg?v=1",
-    "name": "Wheels Ford F-5 Dually Custom Hot Rod",
+    "name": "Ford F-5 Dually Custom Hot Rod",
     "year": 1949,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "rods and customs",
     "price": 250000,
     "sources": [
@@ -18989,9 +18989,9 @@
   {
     "id": 615,
     "img": "images/cars/side/fh5_car_615.jpg?v=1",
-    "name": "Wheels Ford Mustang",
+    "name": "Ford Mustang",
     "year": 2005,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "track toys",
     "price": 300000,
     "sources": [
@@ -19022,9 +19022,9 @@
   {
     "id": 616,
     "img": "images/cars/side/fh5_car_616.jpg?v=1",
-    "name": "Martin DBX",
+    "name": "DBX",
     "year": 2021,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "sports utility heroes",
     "price": 200000,
     "sources": [
@@ -19054,7 +19054,7 @@
     "img": "images/cars/side/fh5_car_617.jpg?v=1",
     "name": "RC F Track Edition",
     "year": 2020,
-    "make": "Lexus",
+    "make": "lexus",
     "category": "track toys",
     "price": 100000,
     "sources": [
@@ -19084,7 +19084,7 @@
     "img": "images/cars/side/fh5_car_618.jpg?v=1",
     "name": "370z Nismo",
     "year": 2019,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "modern sports cars",
     "price": 50000,
     "sources": [
@@ -19114,7 +19114,7 @@
     "img": "images/cars/side/fh5_car_619.jpg?v=3",
     "name": "Hot Wheels COPO Camaro",
     "year": 2018,
-    "make": "Chevrolet",
+    "make": "chevrolet",
     "category": "track toys",
     "price": 205000,
     "sources": [
@@ -19142,9 +19142,9 @@
   {
     "id": 620,
     "img": "images/cars/side/fh5_car_620.jpg?v=2",
-    "name": "Wheels Bad to the Blade",
+    "name": "Bad to the Blade",
     "year": 2012,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "extreme track toys",
     "price": 200000,
     "sources": [
@@ -19172,9 +19172,9 @@
   {
     "id": 621,
     "img": "images/cars/side/fh5_car_621.jpg?v=2",
-    "name": "Wheels Baja Bone Shaker",
+    "name": "Baja Bone Shaker",
     "year": 2013,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "unlimited offroad",
     "price": 150000,
     "sources": [
@@ -19203,9 +19203,9 @@
   {
     "id": 622,
     "img": "images/cars/side/fh5_car_622.jpg?v=2",
-    "name": "Wheels Deora II",
+    "name": "Deora II",
     "year": 2000,
-    "make": "Hot",
+    "make": "hot wheels",
     "category": "rods and customs",
     "price": 500000,
     "sources": [
@@ -19235,7 +19235,7 @@
     "img": "images/cars/side/fh5_car_623.jpg?v=2",
     "name": "Venom F5",
     "year": 2021,
-    "make": "Hennessey",
+    "make": "hennessey",
     "category": "hypercars",
     "price": 3000000,
     "sources": [
@@ -19265,7 +19265,7 @@
     "img": "images/cars/side/fh5_car_624.jpg?v=2",
     "name": "BT62",
     "year": 2019,
-    "make": "Brabham",
+    "make": "brabham",
     "category": "extreme track toys",
     "price": 1500000,
     "sources": [
@@ -19295,7 +19295,7 @@
     "img": "images/cars/side/fh5_car_625.jpg?v=2",
     "name": "MT900 GT3",
     "year": 2006,
-    "make": "Mosler",
+    "make": "mosler",
     "category": "extreme track toys",
     "price": 500000,
     "sources": [
@@ -19323,9 +19323,9 @@
   {
     "id": 626,
     "img": "images/cars/side/fh5_car_626.jpg?v=2",
-    "name": "Cars #23 Yokohama ALPHA",
+    "name": "#23 Yokohama ALPHA",
     "year": 2020,
-    "make": "SIERRA",
+    "make": "sierra cars",
     "category": "extreme track toys",
     "price": 70000,
     "sources": [
@@ -19355,7 +19355,7 @@
     "img": "images/cars/side/fh5_car_627.jpg?v=2",
     "name": "WRX STI ARX Supercar",
     "year": 2018,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -19385,7 +19385,7 @@
     "img": "images/cars/side/fh5_car_628.jpg?v=1",
     "name": "962CR",
     "year": 1993,
-    "make": "Schuppan",
+    "make": "schuppan",
     "category": "retro supercars",
     "price": 2500000,
     "sources": [
@@ -19413,9 +19413,9 @@
   {
     "id": 629,
     "img": "images/cars/side/fh5_car_629.jpg?v=1",
-    "name": "E #99 Chip Ganassi Racing GMC Hummer EV",
+    "name": "#99 Chip Ganassi Racing GMC Hummer EV",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [],
@@ -19441,9 +19441,9 @@
   {
     "id": 630,
     "img": "images/cars/side/fh5_car_630.jpg?v=1",
-    "name": "E #5 Veloce Racing",
+    "name": "#5 Veloce Racing",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [],
@@ -19469,9 +19469,9 @@
   {
     "id": 631,
     "img": "images/cars/side/fh5_car_631.jpg?v=1",
-    "name": "E #6 Rosberg X Racing",
+    "name": "#6 Rosberg X Racing",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [
@@ -19499,9 +19499,9 @@
   {
     "id": 632,
     "img": "images/cars/side/fh5_car_632.jpg?v=1",
-    "name": "E #22 JBXE",
+    "name": "#22 JBXE",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [],
@@ -19527,9 +19527,9 @@
   {
     "id": 633,
     "img": "images/cars/side/fh5_car_633.jpg?v=1",
-    "name": "E #23 Genesys Andretti United",
+    "name": "#23 Genesys Andretti United",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [
@@ -19557,9 +19557,9 @@
   {
     "id": 634,
     "img": "images/cars/side/fh5_car_634.jpg?v=1",
-    "name": "E #42 XITE Racing Team",
+    "name": "#42 XITE Racing Team",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [],
@@ -19585,9 +19585,9 @@
   {
     "id": 635,
     "img": "images/cars/side/fh5_car_635.jpg?v=1",
-    "name": "E #44 X44",
+    "name": "#44 X44",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [],
@@ -19613,9 +19613,9 @@
   {
     "id": 636,
     "img": "images/cars/side/fh5_car_636.jpg?v=1",
-    "name": "E #55 ACCIONA | Sainz XE Team",
+    "name": "#55 ACCIONA | Sainz XE Team",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [],
@@ -19641,9 +19641,9 @@
   {
     "id": 637,
     "img": "images/cars/side/fh5_car_637.jpg?v=1",
-    "name": "E #58 McLaren Racing",
+    "name": "#58 McLaren Racing",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [],
@@ -19669,9 +19669,9 @@
   {
     "id": 638,
     "img": "images/cars/side/fh5_car_638.jpg?v=1",
-    "name": "E #125 ABT Cupra XE",
+    "name": "#125 ABT Cupra XE",
     "year": 2022,
-    "make": "Extreme",
+    "make": "extreme e",
     "category": "unlimited offroad",
     "price": 700000,
     "sources": [
@@ -19701,7 +19701,7 @@
     "img": "images/cars/side/fh5_car_639.jpg?v=1",
     "name": "911 Carrera 2 by Gunther Werks",
     "year": 1995,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern sports cars",
     "price": 575000,
     "sources": [
@@ -19731,7 +19731,7 @@
     "img": "images/cars/side/fh5_car_640.jpg?v=1",
     "name": "911 Reimagined by Singer - DLS",
     "year": 1990,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "modern supercars",
     "price": 1800000,
     "sources": [
@@ -19761,7 +19761,7 @@
     "img": "images/cars/side/fh5_car_641.jpg?v=1",
     "name": "#23 917/20",
     "year": 1971,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "classic racers",
     "price": 15000000,
     "sources": [
@@ -19791,7 +19791,7 @@
     "img": "images/cars/side/fh5_car_642.jpg?v=1",
     "name": "356 C Cabriolet Emory Special",
     "year": 1964,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "classic sports cars",
     "price": 400000,
     "sources": [
@@ -19821,7 +19821,7 @@
     "img": "images/cars/side/fh5_car_643.jpg?v=1",
     "name": "M3 GTS 2010",
     "year": 2010,
-    "make": "BMW",
+    "make": "bmw",
     "category": "track toys",
     "price": 250000,
     "sources": [],
@@ -19849,7 +19849,7 @@
     "img": "images/cars/side/fh5_car_644.jpg?v=1",
     "name": "M4 Competition Coup\u00e9",
     "year": 2021,
-    "make": "BMW",
+    "make": "bmw",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -19879,7 +19879,7 @@
     "img": "images/cars/side/fh5_car_645.jpg?v=1",
     "name": "300 SLR",
     "year": 1955,
-    "make": "Mercedes-Benz",
+    "make": "mercedes-benz",
     "category": "classic racers",
     "price": 143000000,
     "sources": [
@@ -19910,7 +19910,7 @@
     "img": "images/cars/side/fh5_car_646.jpg?v=2",
     "name": "550A Spyder",
     "year": 1955,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "classic racers",
     "price": 600000,
     "sources": [],
@@ -19938,7 +19938,7 @@
     "img": "images/cars/side/fh5_car_647.jpg?v=1",
     "name": "VK Commodore Group A",
     "year": 1985,
-    "make": "HDT",
+    "make": "hdt",
     "category": "retro muscle",
     "price": 250000,
     "sources": [],
@@ -19966,7 +19966,7 @@
     "img": "images/cars/side/fh5_car_648.jpg?v=1",
     "name": "Legacy RS",
     "year": 1990,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "retro rally",
     "price": 250000,
     "sources": [],
@@ -19994,7 +19994,7 @@
     "img": "images/cars/side/fh5_car_649.jpg?v=1",
     "name": "P7",
     "year": 2020,
-    "make": "Xpeng",
+    "make": "xpeng",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -20024,7 +20024,7 @@
     "img": "images/cars/side/fh5_car_650.jpg?v=1",
     "name": "RS E-Tron GT",
     "year": 2021,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -20054,7 +20054,7 @@
     "img": "images/cars/side/fh5_car_651.jpg?v=2",
     "name": "RS 7 Sportback",
     "year": 2021,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -20084,7 +20084,7 @@
     "img": "images/cars/side/fh5_car_652.jpg?v=2",
     "name": "Turbo R 1991",
     "year": 1991,
-    "make": "Bentley",
+    "make": "bentley",
     "category": "retro saloons",
     "price": 250000,
     "sources": [
@@ -20112,9 +20112,9 @@
   {
     "id": 653,
     "img": "images/cars/side/fh5_car_653.jpg?v=2",
-    "name": "& Co 03+",
+    "name": "03+",
     "year": 2021,
-    "make": "Lynk",
+    "make": "lynk & co",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -20144,7 +20144,7 @@
     "img": "images/cars/side/fh5_car_654.jpg?v=1",
     "name": "Sentra Nismo",
     "year": 2018,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -20172,9 +20172,9 @@
   {
     "id": 655,
     "img": "images/cars/side/fh5_car_655.jpg?v=1",
-    "name": "Martin One-77",
+    "name": "One-77",
     "year": 2010,
-    "make": "Aston",
+    "make": "aston martin",
     "category": "super gt",
     "price": 1400000,
     "sources": [
@@ -20204,7 +20204,7 @@
     "img": "images/cars/side/fh5_car_656.jpg?v=1",
     "name": "SRT Viper GTS Anniversary Edition",
     "year": 2013,
-    "make": "Dodge",
+    "make": "dodge",
     "category": "modern muscle",
     "price": 250000,
     "sources": [
@@ -20234,7 +20234,7 @@
     "img": "images/cars/side/fh5_car_657.jpg?v=2",
     "name": "Speedster",
     "year": 2012,
-    "make": "Eagle",
+    "make": "eagle",
     "category": "modern sports cars",
     "price": 550000,
     "sources": [
@@ -20264,7 +20264,7 @@
     "img": "images/cars/side/fh5_car_658.jpg?v=1",
     "name": "599XX",
     "year": 2010,
-    "make": "Ferrari",
+    "make": "ferrari",
     "category": "extreme track toys",
     "price": 2000000,
     "sources": [
@@ -20294,7 +20294,7 @@
     "img": "images/cars/side/fh5_car_659.jpg?v=1",
     "name": "Agera",
     "year": 2011,
-    "make": "Koenigsegg",
+    "make": "koenigsegg",
     "category": "hypercars",
     "price": 1500000,
     "sources": [
@@ -20322,9 +20322,9 @@
   {
     "id": 660,
     "img": "images/cars/side/fh5_car_660.jpg?v=1",
-    "name": "& Co #100 Cyan Racing 03",
+    "name": "#100 Cyan Racing 03",
     "year": 2020,
-    "make": "Lynk",
+    "make": "lynk & co",
     "category": "track toys",
     "price": 250000,
     "sources": [
@@ -20354,7 +20354,7 @@
     "img": "images/cars/side/fh5_car_661.jpg?v=1",
     "name": "Super Deluxe Station Wagon",
     "year": 1946,
-    "make": "Ford",
+    "make": "ford",
     "category": "rods and customs",
     "price": 250000,
     "sources": [],
@@ -20382,7 +20382,7 @@
     "img": "images/cars/side/fh5_car_662.jpg?v=1",
     "name": "Mini-Traveller",
     "year": 1965,
-    "make": "Morris",
+    "make": "morris",
     "category": "vans and utility",
     "price": 250000,
     "sources": [
@@ -20412,7 +20412,7 @@
     "img": "images/cars/side/fh5_car_663.jpg?v=1",
     "name": "Minor Series II Traveler",
     "year": 1953,
-    "make": "Morris",
+    "make": "morris",
     "category": "vans and utility",
     "price": 250000,
     "sources": [
@@ -20442,7 +20442,7 @@
     "img": "images/cars/side/fh5_car_664.jpg?v=1",
     "name": "Javelin AMX",
     "year": 1971,
-    "make": "AMC",
+    "make": "amc",
     "category": "classic muscle",
     "price": 250000,
     "sources": [
@@ -20472,7 +20472,7 @@
     "img": "images/cars/side/fh5_car_665.jpg?v=1",
     "name": "Rebel \"The Machine\"",
     "year": 1970,
-    "make": "AMC",
+    "make": "amc",
     "category": "classic muscle",
     "price": 250000,
     "sources": [
@@ -20502,7 +20502,7 @@
     "img": "images/cars/side/fh5_car_666.jpg?v=1",
     "name": "XTS Limousine",
     "year": 2013,
-    "make": "Cadillac",
+    "make": "cadillac",
     "category": "super saloons",
     "price": 250000,
     "sources": [],
@@ -20530,7 +20530,7 @@
     "img": "images/cars/side/fh5_car_667.jpg?v=1",
     "name": "UrbanRebel Concept",
     "year": 2022,
-    "make": "Cupra",
+    "make": "cupra",
     "category": "track toys",
     "price": 2000000,
     "sources": [
@@ -20561,7 +20561,7 @@
     "img": "images/cars/side/fh5_car_668.jpg?v=1",
     "name": "Si\u00e1n Roadster",
     "year": 2020,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "hypercars",
     "price": 3500000,
     "sources": [
@@ -20591,7 +20591,7 @@
     "img": "images/cars/side/fh5_car_669.jpg?v=1",
     "name": "Fury",
     "year": 1958,
-    "make": "Plymouth",
+    "make": "plymouth",
     "category": "rods and customs",
     "price": 250000,
     "sources": [
@@ -20621,7 +20621,7 @@
     "img": "images/cars/side/fh5_car_670.jpg?v=1",
     "name": "MG6 XPower",
     "year": 2021,
-    "make": "MG",
+    "make": "mg",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -20651,7 +20651,7 @@
     "img": "images/cars/side/fh5_car_671.jpg?v=1",
     "name": "#20 MG6 XPower",
     "year": 2020,
-    "make": "MG",
+    "make": "mg",
     "category": "track toys",
     "price": 250000,
     "sources": [
@@ -20681,7 +20681,7 @@
     "img": "images/cars/side/fh5_car_672.jpg?v=1",
     "name": "Clio R.S.",
     "year": 2010,
-    "make": "Renault",
+    "make": "renault",
     "category": "hot hatch",
     "price": 250000,
     "sources": [],
@@ -20709,7 +20709,7 @@
     "img": "images/cars/side/fh5_car_673.jpg?v=1",
     "name": "Clio R.S. 16 Concept",
     "year": 2016,
-    "make": "Renault",
+    "make": "renault",
     "category": "super hot hatch",
     "price": 250000,
     "sources": [
@@ -20739,7 +20739,7 @@
     "img": "images/cars/side/fh5_car_674.jpg?v=1",
     "name": "Megane RS 250",
     "year": 2010,
-    "make": "Renault",
+    "make": "renault",
     "category": "super hot hatch",
     "price": 250000,
     "sources": [
@@ -20769,7 +20769,7 @@
     "img": "images/cars/side/fh5_car_675.jpg?v=1",
     "name": "Z",
     "year": 2023,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "modern sports cars",
     "price": 250000,
     "sources": [
@@ -20799,7 +20799,7 @@
     "img": "images/cars/side/fh5_car_676.jpg?v=1",
     "name": "MR2 GT",
     "year": 1995,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "retro sports cars",
     "price": 250000,
     "sources": [
@@ -20829,7 +20829,7 @@
     "img": "images/cars/side/fh5_car_677.jpg?v=2",
     "name": "Galant VR-4",
     "year": 1992,
-    "make": "Mitsubishi",
+    "make": "mitsubishi",
     "category": "retro rally",
     "price": 250000,
     "sources": [
@@ -20859,7 +20859,7 @@
     "img": "images/cars/side/fh5_car_678.jpg?v=1",
     "name": "Sports 800",
     "year": 1965,
-    "make": "Toyota",
+    "make": "toyota",
     "category": "classic sports cars",
     "price": 250000,
     "sources": [
@@ -20889,7 +20889,7 @@
     "img": "images/cars/side/fh5_car_679.jpg?v=3",
     "name": "Zonda Cinque Roadster 'Oreo Edition\u2019",
     "year": 2009,
-    "make": "Pagani",
+    "make": "pagani",
     "category": "hypercars",
     "price": 2100000,
     "sources": [
@@ -20917,9 +20917,9 @@
   {
     "id": 680,
     "img": "images/cars/side/fh5_car_680.jpg?v=1",
-    "name": "Cars 700R",
+    "name": "700R",
     "year": 2021,
-    "make": "SIERRA",
+    "make": "sierra cars",
     "category": "utv's",
     "price": 250000,
     "sources": [
@@ -20949,7 +20949,7 @@
     "img": "images/cars/side/fh5_car_681.jpg?v=2",
     "name": "BRAT GL",
     "year": 1980,
-    "make": "Subaru",
+    "make": "subaru",
     "category": "vans and utility",
     "price": 250000,
     "sources": [
@@ -20979,7 +20979,7 @@
     "img": "images/cars/side/fh5_car_682.jpg?v=1",
     "name": "GYMKHANA 9 Ford Focus RS RX",
     "year": 2016,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "rally monsters",
     "price": 500000,
     "sources": [
@@ -21009,7 +21009,7 @@
     "img": "images/cars/side/fh5_car_683.jpg?v=1",
     "name": "#2 Audi Sport quattro S1",
     "year": 1986,
-    "make": "Audi",
+    "make": "audi",
     "category": "rally monsters",
     "price": 375000,
     "sources": [
@@ -21040,7 +21040,7 @@
     "img": "images/cars/side/fh5_car_684.jpg?v=1",
     "name": "Ridgeline Baja Trophy Truck",
     "year": 2015,
-    "make": "Honda",
+    "make": "honda",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -21070,7 +21070,7 @@
     "img": "images/cars/side/fh5_car_685.jpg?v=1",
     "name": "RZR Pro XP Ultimate",
     "year": 2021,
-    "make": "Polaris",
+    "make": "polaris",
     "category": "utv's",
     "price": 250000,
     "sources": [
@@ -21100,7 +21100,7 @@
     "img": "images/cars/side/fh5_car_686.jpg?v=2",
     "name": "Safari Turbo",
     "year": 1985,
-    "make": "Nissan",
+    "make": "nissan",
     "category": "pick-up & 4x4's",
     "price": 250000,
     "sources": [
@@ -21130,7 +21130,7 @@
     "img": "images/cars/side/fh5_car_687.jpg?v=2",
     "name": "F-150 Lightning Platinum",
     "year": 2022,
-    "make": "Ford",
+    "make": "ford",
     "category": "pick-up & 4x4's",
     "price": 100000,
     "sources": [
@@ -21160,7 +21160,7 @@
     "img": "images/cars/side/fh5_car_688.jpg?v=2",
     "name": "Volkswagen Baja Beetle Class 5/1600 \u2018Scumbug\u2019",
     "year": 1973,
-    "make": "Hoonigan",
+    "make": "hoonigan",
     "category": "buggies",
     "price": 300000,
     "sources": [
@@ -21190,7 +21190,7 @@
     "img": "images/cars/side/fh5_car_689.jpg?v=3",
     "name": "#4 Ford Focus RS",
     "year": 2001,
-    "make": "Ford",
+    "make": "ford",
     "category": "rally monsters",
     "price": 200000,
     "sources": [
@@ -21218,9 +21218,9 @@
   {
     "id": 690,
     "img": "images/cars/side/fh5_car_690.jpg?v=2",
-    "name": "Craft #6165 Trick Truck",
+    "name": "#6165 Trick Truck",
     "year": 2022,
-    "make": "Alumi",
+    "make": "alumi craft",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -21250,7 +21250,7 @@
     "img": "images/cars/side/fh5_car_691.jpg?v=2",
     "name": "RZR Pro XP Factory Racing Limited Edition",
     "year": 2021,
-    "make": "Polaris",
+    "make": "polaris",
     "category": "utv's",
     "price": 75000,
     "sources": [
@@ -21280,7 +21280,7 @@
     "img": "images/cars/side/fh5_car_692.jpg?v=2",
     "name": "#179 Hammerhead Class 1",
     "year": 2020,
-    "make": "Jimco",
+    "make": "jimco",
     "category": "unlimited buggies",
     "price": 150000,
     "sources": [
@@ -21310,7 +21310,7 @@
     "img": "images/cars/side/fh5_car_693.jpg?v=2",
     "name": "#240 Fastball Racing Spec Trophy Truck",
     "year": 2019,
-    "make": "Jimco",
+    "make": "jimco",
     "category": "unlimited offroad",
     "price": 350000,
     "sources": [
@@ -21338,9 +21338,9 @@
   {
     "id": 694,
     "img": "images/cars/side/fh5_car_694.jpg?v=2",
-    "name": "Currie Motorsports #4402 Ultra 4 \u2018Trophy Jeep\u2019",
+    "name": "#4402 Ultra 4 \u2018Trophy Jeep\u2019",
     "year": 2019,
-    "make": "Casey",
+    "make": "casey currie motorsports",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -21368,9 +21368,9 @@
   {
     "id": 695,
     "img": "images/cars/side/fh5_car_695.jpg?v=2",
-    "name": "Anderson #37 Polaris RZR Pro 4 Truck",
+    "name": "#37 Polaris RZR Pro 4 Truck",
     "year": 2021,
-    "make": "RJ",
+    "make": "rj anderson",
     "category": "unlimited offroad",
     "price": 500000,
     "sources": [
@@ -21398,9 +21398,9 @@
   {
     "id": 696,
     "img": "images/cars/side/fh5_car_696.jpg?v=2",
-    "name": "Craft #122 Class 1 Buggy",
+    "name": "#122 Class 1 Buggy",
     "year": 2021,
-    "make": "Alumi",
+    "make": "alumi craft",
     "category": "unlimited buggies",
     "price": 300000,
     "sources": [],
@@ -21428,7 +21428,7 @@
     "img": "images/cars/side/fh5_car_697.jpg?v=1",
     "name": "Nevera",
     "year": 2021,
-    "make": "Rimac",
+    "make": "rimac",
     "category": "hypercars",
     "price": 3000000,
     "sources": [
@@ -21458,7 +21458,7 @@
     "img": "images/cars/side/fh5_car_698.jpg?v=1",
     "name": "CT5-V Blackwing",
     "year": 2022,
-    "make": "Cadillac",
+    "make": "cadillac",
     "category": "modern muscle",
     "price": 250000,
     "sources": [
@@ -21488,7 +21488,7 @@
     "img": "images/cars/side/fh5_car_699.jpg?v=1",
     "name": "LC 500",
     "year": 2021,
-    "make": "Lexus",
+    "make": "lexus",
     "category": "gt cars",
     "price": 250000,
     "sources": [
@@ -21518,7 +21518,7 @@
     "img": "images/cars/side/fh5_car_700.jpg?v=1",
     "name": "CT4-V Blackwing",
     "year": 2022,
-    "make": "Cadillac",
+    "make": "cadillac",
     "category": "modern muscle",
     "price": 250000,
     "sources": [
@@ -21548,7 +21548,7 @@
     "img": "images/cars/side/fh5_car_701.jpg?v=1",
     "name": "Hurac\u00e1n STO",
     "year": 2020,
-    "make": "Lamborghini",
+    "make": "lamborghini",
     "category": "track toys",
     "price": 450000,
     "sources": [
@@ -21578,7 +21578,7 @@
     "img": "images/cars/side/fh5_car_702.jpg?v=1",
     "name": "#70 Porsche Motorsport 935",
     "year": 2019,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "extreme track toys",
     "price": 1000000,
     "sources": [
@@ -21608,7 +21608,7 @@
     "img": "images/cars/side/fh5_car_703.jpg?v=1",
     "name": "RS 6 Avant",
     "year": 2021,
-    "make": "Audi",
+    "make": "audi",
     "category": "super saloons",
     "price": 250000,
     "sources": [
@@ -21638,7 +21638,7 @@
     "img": "images/cars/side/fh5_car_704.jpg?v=1",
     "name": "Mission R",
     "year": 2021,
-    "make": "Porsche",
+    "make": "porsche",
     "category": "extreme track toys",
     "price": 10000000,
     "sources": [

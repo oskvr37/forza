@@ -11,10 +11,12 @@ assert req.status_code == 200
 
 print(f'⌛ Website loaded')
 
-
 html = fromstring(req.content)
 
 car_divs = html.xpath("//div[@id='carlist']/div")
+
+with open('makes.json', 'r') as f:
+    makes = [m.lower() for m in json.load(f)]
 
 cars = []
 
@@ -26,10 +28,11 @@ for div in car_divs:
         name = div.xpath("a[@class='name']/text()")[0].split(' ')
         year = int(name.pop(0))
 
-        # TODO: fix this
-        # sometimes make name is longer than 1 word
-        
-        make = name.pop(0)
+        make = name.pop(0).lower()
+
+        while make not in makes:
+            make = f'{make} {name.pop(0).lower()}'
+
         name = ' '.join(name)
 
         category = div.xpath("div[@class='cty']/text()")[0].lower()
