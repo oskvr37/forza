@@ -10,6 +10,7 @@
 
 
 .photo
+    width: fit-content
     padding: 0.5rem
     background-color: #f1f1f1
     border-radius: 0.5rem
@@ -21,9 +22,14 @@
 .heading
     width: 100%
     display: flex
+    // flex-wrap: wrap
     align-items: flex-start
     gap: 1rem
     justify-content: space-between
+
+.row
+    display: flex
+    gap: 1rem
 
 .basic
     display: flex
@@ -36,6 +42,10 @@
         text-transform: uppercase
         font-weight: 400
         color: #777
+    
+    i
+        font-style: italic
+        color: #555
 
 .sources
     display: flex
@@ -53,4 +63,18 @@
 .price
     font-style: italic
     font-weight: 700
+    font-size: 1.2rem
+
+
+
+@media (max-width: 768px)
+    .container
+        padding: 0.5rem
+
+    .row
+        flex-direction: column
+        gap: 0.5rem
     
+    .sources
+        flex-direction: column
+        gap: 0.25rem
