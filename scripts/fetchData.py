@@ -35,6 +35,11 @@ for div in car_divs:
 
         name = ' '.join(name)
 
+        try:
+            rarity = int(div.xpath("@class")[0][5:-1])
+        except:
+            rarity = 0
+
         category = div.xpath("div[@class='cty']/text()")[0].lower()
         sources = [s.lower() for s in div.xpath("div/div[@class='car_source']//b/text()")]
 
@@ -71,6 +76,7 @@ for div in car_divs:
             "year": year,
             "make": make,
             "category": category,
+            "rarity": rarity,
             "price": price,
             "sources": sources,
             "score": score,
