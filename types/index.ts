@@ -5,6 +5,7 @@ interface TCar {
   year: number;
   make: string;
   category: string;
+  rarity: number;
   price: number;
   sources: string[];
   score: number;

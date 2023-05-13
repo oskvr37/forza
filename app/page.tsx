@@ -12,11 +12,10 @@ export default function Page() {
           gap: "1rem",
         }}
       >
-
-      {cars.map((car) => (
-        <Car key={car.id} car={car} />
+        {cars.slice(43, 67).map((car) => (
+          <Car key={car.id} car={car} />
         ))}
-        </div>
+      </div>
     </main>
   );
 }

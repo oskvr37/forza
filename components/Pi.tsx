@@ -1,4 +1,5 @@
 // Performance index component
+import style from "./pi.module.sass";
 
 export default function Pi({ pi }: { pi: number }) {
   let car_class: string;
@@ -9,7 +10,7 @@ export default function Pi({ pi }: { pi: number }) {
     color = "#6EBAED";
   } else if (pi <= 600) {
     car_class = "C";
-    color = "#D9BB33";
+    color = "#C2A524";
   } else if (pi <= 700) {
     car_class = "B";
     color = "#D35927";
@@ -26,36 +27,21 @@ export default function Pi({ pi }: { pi: number }) {
     car_class = "X";
     color = "#69B749";
   }
+
   return (
     <div
+    className={style.container}
       style={{
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        width: "fit-content",
-        borderRadius: "0.25rem",
-        padding: "0.25rem",
-        fontSize: "1.25rem",
-        fontWeight: "900",
         backgroundColor: color,
       }}
     >
       <p
-        style={{
-          fontSize: "1.5rem",
-          padding: "0 0.75rem 0 0.5rem",
-          color: "#fff",
-        }}
+        className={style.class}
       >
         {car_class}
       </p>
       <p
-        style={{
-          padding: "0.25rem 0.5rem",
-          backgroundColor: "#fff",
-          borderRadius: "0.25rem",
-          color: "#000",
-        }}
+        className={style.score}
       >
         {pi}
       </p>
