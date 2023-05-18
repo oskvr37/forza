@@ -5,20 +5,20 @@ import Pi from "./Pi";
 
 function rarityToColor(rarity: number) {
   switch (rarity) {
-    case 0:
-      return "#fff";
-    case 1:
-      return "#fff";
-    case 2:
-      return "#fff";
-    case 3:
-      return "#fff";
-    case 4:
-      return "#fff";
-    case 5:
-      return "#fff";
-    case 6:
-      return "#fff";
+    case 0: // unknown
+      return "#888";
+    case 1: // common
+      return "#7ACB49";
+    case 2: // rare
+      return "#2DCDF9";
+    case 3: // epic
+      return "#D247ED";
+    case 4: // legendary
+      return "#FEA71D";
+    case 5: // forza edition
+      return "#5446EA";
+    case 6: // anniversary edition
+      return "#EA4654";
 }}
 
 export default function Car({ car }: { car: TCar }) {
@@ -40,7 +40,10 @@ export default function Car({ car }: { car: TCar }) {
   } = car;
 
   return (
-    <div className={style.container}>
+    <div className={style.container}
+    style={{
+      borderColor: rarityToColor(car.rarity)
+    }}>
       <div className={style.heading}>
         <div className={style.row}>
           <div className={style.photo}>
